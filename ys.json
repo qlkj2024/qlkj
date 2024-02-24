@@ -5,7 +5,7 @@
 "sites":[
 {
       "key": "豆瓣",  
-      "name": "东辰影视┃加qq群783264601防迷失，接口将在七天后失效，本接口免费，仅做学习交流！",
+      "name": "奇乐科技┃加qq群540148140防迷失，本接口免费，仅做学习交流！",
       "type": 3,
       "api": "./js/drpy2.min.js",
       "searchable": 0,
@@ -37,9 +37,23 @@
         "type": "rect",
         "ratio": 1
       },
-      "ext": "https://gitee.com/dongchenys/liu/raw/master/json/PG推送.json"
+      "ext": "https://gitee.com/zhaodehe/qlkj/raw/master/json/PG推送.json"
     },
-
+      {
+            "ext": "eyJhcGkiOiJodHRwOi8vdHZib3gucWxrankuY24iLCJ0b2tlbiI6IiJ9",
+            "filterable": 1,
+            "quickSearch": 1,
+            "name": "公众号|奇乐技术网",
+            "changeable": 0,
+            "jar": "http://tvbox.qlkjy.cn/spring.jar",
+            "style": {
+                "type": "rect"
+            },
+            "api": "csp_XiaoYa",
+            "type": 3,
+            "key": "csp_XiaoYa",
+            "searchable": 1
+        },
 {
       "key": "csp_XYQHikerAL_玩偶哥哥",
       "name": "玩偶⚗️臻享4K",
@@ -82,8 +96,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gitee.com/dongchenys/liu/raw/master/jar/HeChengChaXiu.jar",
-      "ext": "https://gitee.com/dongchenys/liu/raw/master/json/PG推送.json"
+      "jar": "https://gitee.com/zhaodehe/qlkj/raw/master/jar/HeChengChaXiu.jar",
+      "ext": "https://gitee.com/zhaodehe/qlkj/raw/master/json/PG推送.json"
     },
 
 {
@@ -91,11 +105,11 @@
       "name": "苏苏🛰️臻享4K",
       "type": 3,
       "api": "csp_XYQHikerAL",
-      "jar": "https://gitee.com/dongchenys/liu/raw/master/jar/xyqwogg.jar",
+      "jar": "https://gitee.com/zhaodehe/qlkj/raw/master/jar/xyqwogg.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/dongchenys/liu/raw/master/json/alisusu.json"
+      "ext": "https://gitee.com/zhaodehe/qlkj/raw/master/json/alisusu.json"
     },
 
 {
@@ -139,12 +153,12 @@
       "name":"影巢🚜臻享4K",
       "type":3,
       "api":"csp_Hdhive",
-      "jar": "https://gitee.com/dongchenys/liu/raw/master/jar/pg2.jar",
+      "jar": "https://gitee.com/zhaodehe/qlkj/raw/master/jar/pg2.jar",
       "quickSearch":1,
       "changeable":1,
       "filterable":1, 
       "timeout":30, 
-      "ext":"https://gitee.com/dongchenys/liu/raw/master/json/PG推送.json$$$null$$$1"
+      "ext":"https://gitee.com/zhaodehe/qlkj/raw/master/json/PG推送.json$$$null$$$1"
 },
 
 {
@@ -152,12 +166,12 @@
      "name":"玩偶🍺蓝光4K",
      "type":3,
      "api":"csp_Wogg",
-     "jar": "https://gitee.com/dongchenys/liu/raw/master/jar/PG.jar",
+     "jar": "https://gitee.com/zhaodehe/qlkj/raw/master/jar/PG.jar",
      "quickSearch":1, 
      "changeable":1, 
      "filterable":1, 
      "timeout":30, 
-     "ext":"https://gitee.com/dongchenys/liu/raw/master/json/PG推送.json$$$https://wogg.xyz/$$$null$$$1$$$https://gitee.com/dongchenys/liu/raw/master/json/wogg.json"
+     "ext":"https://gitee.com/zhaodehe/qlkj/raw/master/json/PG推送.json$$$https://wogg.xyz/$$$null$$$1$$$https://gitee.com/zhaodehe/qlkj/raw/master/json/wogg.json"
 },
 
 {
@@ -165,12 +179,12 @@
       "name":"校长🛶蓝光4K",
       "type":3,
       "api":"csp_XiaoZhang",
-      "jar": "https://gitee.com/dongchenys/liu/raw/master/jar/PG.jar",
+      "jar": "https://gitee.com/zhaodehe/qlkj/raw/master/jar/PG.jar",
       "quickSearch":1, 
       "changeable":1, 
       "filterable":1,
       "timeout":30,
-      "ext":"https://gitee.com/dongchenys/liu/raw/master/json/PG推送.json$$$https://xzyshd.com$$$null$$$1"
+      "ext":"https://gitee.com/zhaodehe/qlkj/raw/master/json/PG推送.json$$$https://xzyshd.com$$$null$$$1"
 },
 
 {
@@ -589,7 +603,7 @@
       "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 0,
-      "ext": "https://gitee.com/dongchenys/liu/raw/master/json/yinyue.json"
+      "ext": "https://gitee.com/zhaodehe/qlkj/raw/master/json/yinyue.json"
     },
 
 {
@@ -607,7 +621,7 @@
       "name": "利播🌕韩剧",
       "type": 3,
       "api": "csp_Libvio",
-      "jar": "https://gitee.com/dongchenys/liu/raw/master/jar/spider1.png",
+      "jar": "https://gitee.com/zhaodehe/qlkj/raw/master/jar/spider1.png",
       "searchable": 0,
       "quickSearch": 1,
       "changeable": 1,
@@ -860,7 +874,7 @@
       "key": "NT动漫",
       "name": "NT🎀动漫",
       "type": 3,
-      "api": "https://gitee.com/dongchenys/liu/raw/master/js/drpy2.min.js",
+      "api": "https://gitee.com/zhaodehe/qlkj/raw/master/js/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -872,12 +886,12 @@
       "key": "drpy_js_路漫漫",
       "name": "路漫漫🚌动漫",
       "type": 3,
-      "api": "https://gitee.com/dongchenys/liu/raw/master/js/drpy2.min.js",
+      "api": "https://gitee.com/zhaodehe/qlkj/raw/master/js/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "https://gitee.com/dongchenys/liu/raw/master/js/lumanman.js"
+      "ext": "https://gitee.com/zhaodehe/qlkj/raw/master/js/lumanman.js"
     },
 
 {
@@ -1035,12 +1049,12 @@
       "name": "混合🚲网盘",
       "type": 3,
       "api": "csp_HunHePan",
-      "jar": "https://gitee.com/dongchenys/liu/raw/master/jar/pg.jar",
+      "jar": "https://gitee.com/zhaodehe/qlkj/raw/master/jar/pg.jar",
       "changeable": 0,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitee.com/dongchenys/liu/raw/master/json/PG推送.json",
+      "ext": "https://gitee.com/zhaodehe/qlkj/raw/master/json/PG推送.json",
       "timeout": 30
     },
 
@@ -1049,7 +1063,7 @@
       "name": "易搜🛸网盘",
       "type": 3,
       "api": "csp_Yisou",
-      "jar": "https://gitee.com/dongchenys/liu/raw/master/jar/xiaohu.jar",
+      "jar": "https://gitee.com/zhaodehe/qlkj/raw/master/jar/xiaohu.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
@@ -1061,12 +1075,12 @@
       "name": "夸克🛹网盘",
       "type": 3,
       "api": "csp_QuarkPanso",
-      "jar": "https://gitee.com/dongchenys/liu/raw/master/jar/pgliu.jar",
+      "jar": "https://gitee.com/zhaodehe/qlkj/raw/master/jar/pgliu.jar",
       "changeable": 2,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitee.com/dongchenys/liu/raw/master/json/PG推送.json",
+      "ext": "https://gitee.com/zhaodehe/qlkj/raw/master/json/PG推送.json",
       "timeout": 60
     },    
 
@@ -1075,7 +1089,7 @@
       "name": "盘搜🚢网盘",
       "type": 3,
       "api": "csp_AliPS",
-      "jar": "https://gitee.com/dongchenys/liu/raw/master/jar/xiaohu.jar",
+      "jar": "https://gitee.com/zhaodehe/qlkj/raw/master/jar/xiaohu.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -1086,7 +1100,7 @@
       "name": "纸条🚃网盘",
       "type": 3,
       "api": "csp_Gitcafe",
-      "jar": "https://gitee.com/dongchenys/liu/raw/master/jar/ttkx.jar",
+      "jar": "https://gitee.com/zhaodehe/qlkj/raw/master/jar/ttkx.jar",
       "changeable": 0,
       "searchable": 1,
       "quickSearch": 1,
@@ -1108,25 +1122,11 @@
       "timeout": 30
     },
 
-      {
-            "ext": "eyJhcGkiOiJodHRwOi8vdHZib3gucWxrankuY24iLCJ0b2tlbiI6IiJ9",
-            "filterable": 1,
-            "quickSearch": 1,
-            "name": "公众号|奇乐技术网",
-            "changeable": 0,
-            "jar": "http://tvbox.qlkjy.cn/spring.jar",
-            "style": {
-                "type": "rect"
-            },
-            "api": "csp_XiaoYa",
-            "type": 3,
-            "key": "csp_XiaoYa",
-            "searchable": 1
-        },
+     
 
 {"key":"ext_live_protocol","name":"免费接口，自娱制作","type":3,"api":"csp_DuoX","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"cc","name":"请勿相信视频中任何广告","type":3,"api":"csp_XPath","searchable": 0,"quickSearch": 0},
-{"key":"hl","name":"02.16接口仅测试使用","type":3,"api":"csp_XPath","searchable": 0,"quickSearch": 0}
+{"key":"hl","name":"02.24接口仅测试使用","type":3,"api":"csp_XPath","searchable": 0,"quickSearch": 0}
 ],
 
 
@@ -1134,7 +1134,7 @@
 {"name":"聚合1","type":3,"url":"Demo"},
 {"name":"聚合2","type":3,"url":"Web"},
     {
-      "name": "东辰影视",
+      "name": "奇乐影视",
       "type": 1,
       "url": "http://xiutan.shiyifacai.com/json/qingfeng.php?url=",
       "ext": {
@@ -1156,7 +1156,7 @@
 ],
 
 "rules":[{"name":"量子","hosts":["vip.lz","hd.lz"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},{"name":"非凡","hosts":["vip.ffzy","hd.ffzy"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},{"name":"火山","hosts":["huoshan.com"],"regex":["item_id="]},{"name":"抖音","hosts":["douyin.com"],"regex":["is_play_url="]},{"name":"抖音嗅探","hosts":["www.sharenice.net"],"rule": ["douyin.com","/play/"]}],
-"lives":[{"name":"live","type":0,"url":"https://xhdwc.tk/tvlive.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
+"lives":[{"name":"live","type":0,"url":"https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
 "flags":["youku","优酷","优 酷","优酷视频", "qq","腾讯","腾 讯","腾讯视频", "iqiyi", "qiyi","奇艺","爱奇艺","爱 奇 艺", "m1905", "xigua", "letv","leshi","乐视","乐 视", "sohu","搜狐","搜 狐","搜狐视频", "tudou", "pptv", "mgtv","芒果","imgo","芒果TV","芒 果 T V", "bilibili","哔 哩","哔 哩 哔 哩"],
 "ads":["wan.51img1.com","www.72418.com","iqiyi.hbuioo.com","vip.ffzyad.com","https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"]
 }
