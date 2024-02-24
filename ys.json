@@ -1117,7 +1117,7 @@
             "jar": "http://tvbox.qlkjy.cn/spring.jar",
             "style": {
                 "type": "rect"
-            },
+        
             "api": "csp_XiaoYa",
             "type": 3,
             "key": "csp_XiaoYa",
