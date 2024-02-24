@@ -5,7 +5,7 @@
 "sites":[
 {
       "key": "豆瓣",  
-      "name": "东辰影视┃加qq群783264601防迷失，接口将在七天后失效，本接口免费，仅做学习交流！",
+      "name": "奇乐科技┃加qq群540148140防迷失，本接口免费，仅做学习交流！",
       "type": 3,
       "api": "./js/drpy2.min.js",
       "searchable": 0,
@@ -37,7 +37,7 @@
         "type": "rect",
         "ratio": 1
       },
-      "ext": "https://gitee.com/dongchenys/liu/raw/master/json/PG推送.json"
+      "ext": "https://gitee.com/zhaodehe/qlkj/raw/master/json/PG推送.json"
     },
 
 {
