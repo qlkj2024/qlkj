@@ -1108,7 +1108,21 @@
       "timeout": 30
     },
 
-
+      {
+            "ext": "eyJhcGkiOiJodHRwOi8vdHZib3gucWxrankuY24iLCJ0b2tlbiI6IiJ9",
+            "filterable": 1,
+            "quickSearch": 1,
+            "name": "公众号|奇乐技术网",
+            "changeable": 0,
+            "jar": "http://tvbox.qlkjy.cn/spring.jar",
+            "style": {
+                "type": "rect"
+            },
+            "api": "csp_XiaoYa",
+            "type": 3,
+            "key": "csp_XiaoYa",
+            "searchable": 1
+        },
 
 {"key":"ext_live_protocol","name":"免费接口，自娱制作","type":3,"api":"csp_DuoX","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"cc","name":"请勿相信视频中任何广告","type":3,"api":"csp_XPath","searchable": 0,"quickSearch": 0},
