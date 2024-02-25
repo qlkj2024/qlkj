@@ -5,7 +5,7 @@
 "sites":[
 {
       "key": "豆瓣",  
-      "name": "奇乐科技┃加qq群540148140防迷失，本接口免费，仅做学习交流！",
+      "name": "奇乐科技┃加qq群540148140防迷失不定时更新，本接口免费，仅做学习交流！",
       "type": 3,
       "api": "./js/drpy2.min.js",
       "searchable": 0,
@@ -37,7 +37,7 @@
         "type": "rect",
         "ratio": 1
       },
-      "ext": "https://gitee.com/zhaodehe/qlkj/raw/master/json/PG推送.json"
+      "ext": "./json/PG推送.json"
     },
       {
             "ext": "eyJhcGkiOiJodHRwOi8vdHZib3gucWxrankuY24iLCJ0b2tlbiI6IiJ9",
@@ -96,8 +96,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gitee.com/zhaodehe/qlkj/raw/master/jar/HeChengChaXiu.jar",
-      "ext": "https://gitee.com/zhaodehe/qlkj/raw/master/json/PG推送.json"
+      "jar": "./jar/HeChengChaXiu.jar",
+      "ext": "./json/PG推送.json"
     },
 
 {
@@ -105,11 +105,11 @@
       "name": "苏苏🛰️臻享4K",
       "type": 3,
       "api": "csp_XYQHikerAL",
-      "jar": "https://gitee.com/zhaodehe/qlkj/raw/master/jar/xyqwogg.jar",
+      "jar": "./jar/xyqwogg.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/zhaodehe/qlkj/raw/master/json/alisusu.json"
+      "ext": "./json/alisusu.json"
     },
 
 {
@@ -142,12 +142,12 @@
       "name":"影巢🚜臻享4K",
       "type":3,
       "api":"csp_Hdhive",
-      "jar": "https://gitee.com/zhaodehe/qlkj/raw/master/jar/pg2.jar",
+      "jar": "./jar/pg2.jar",
       "quickSearch":1,
       "changeable":1,
       "filterable":1, 
       "timeout":30, 
-      "ext":"https://gitee.com/zhaodehe/qlkj/raw/master/json/PG推送.json$$$null$$$1"
+      "ext":"./json/PG推送.json$$$null$$$1"
 },
 
 {
@@ -155,12 +155,12 @@
      "name":"玩偶🍺蓝光4K",
      "type":3,
      "api":"csp_Wogg",
-     "jar": "https://gitee.com/zhaodehe/qlkj/raw/master/jar/PG.jar",
+     "jar": "./jar/PG.jar",
      "quickSearch":1, 
      "changeable":1, 
      "filterable":1, 
      "timeout":30, 
-     "ext":"https://gitee.com/zhaodehe/qlkj/raw/master/json/PG推送.json$$$https://wogg.xyz/$$$null$$$1$$$https://gitee.com/zhaodehe/qlkj/raw/master/json/wogg.json"
+     "ext":"./json/PG推送.json$$$https://wogg.xyz/$$$null$$$1$$$https://gitee.com/zhaodehe/qlkj/raw/master/json/wogg.json"
 },
 
 {
@@ -168,12 +168,12 @@
       "name":"校长🛶蓝光4K",
       "type":3,
       "api":"csp_XiaoZhang",
-      "jar": "https://gitee.com/zhaodehe/qlkj/raw/master/jar/PG.jar",
+      "jar": "./jar/PG.jar",
       "quickSearch":1, 
       "changeable":1, 
       "filterable":1,
       "timeout":30,
-      "ext":"https://gitee.com/zhaodehe/qlkj/raw/master/json/PG推送.json$$$https://xzyshd.com$$$null$$$1"
+      "ext":"./json/PG推送.json$$$https://xzyshd.com$$$null$$$1"
 },
 
 {
@@ -592,7 +592,7 @@
       "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 0,
-      "ext": "https://gitee.com/zhaodehe/qlkj/raw/master/json/yinyue.json"
+      "ext": "./json/yinyue.json"
     },
 
 {
@@ -602,7 +602,7 @@
       "api": "./js/drpy.min.js",
       "searchable": 0,
       "changeable": 0,
-      "ext": "https://notabug.org/dongchenys/pt/raw/json/js/justlive.js"
+      "ext": "./json/js/justlive.js"
     },        
 
 {
@@ -610,7 +610,7 @@
       "name": "利播🌕韩剧",
       "type": 3,
       "api": "csp_Libvio",
-      "jar": "https://gitee.com/zhaodehe/qlkj/raw/master/jar/spider1.png",
+      "jar": "./jar/spider1.png",
       "searchable": 0,
       "quickSearch": 1,
       "changeable": 1,
@@ -863,7 +863,7 @@
       "key": "NT动漫",
       "name": "NT🎀动漫",
       "type": 3,
-      "api": "https://gitee.com/zhaodehe/qlkj/raw/master/js/drpy2.min.js",
+      "api": "..../js/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -875,7 +875,7 @@
       "key": "drpy_js_路漫漫",
       "name": "路漫漫🚌动漫",
       "type": 3,
-      "api": "https://gitee.com/zhaodehe/qlkj/raw/master/js/drpy2.min.js",
+      "api": "./js/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -1026,7 +1026,7 @@
       "name":"哔哩🅱️短剧",
       "type": 3,
       "api": "csp_Bili",
-      "jar": "https://gitee.com/dongchenys/liu/raw/master/jar/xiaohu.jar",
+      "jar": "./jar/xiaohu.jar",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
@@ -1038,12 +1038,12 @@
       "name": "混合🚲网盘",
       "type": 3,
       "api": "csp_HunHePan",
-      "jar": "https://gitee.com/zhaodehe/qlkj/raw/master/jar/pg.jar",
+      "jar": "./jar/pg.jar",
       "changeable": 0,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitee.com/zhaodehe/qlkj/raw/master/json/PG推送.json",
+      "ext": "./json/PG推送.json",
       "timeout": 30
     },
 
@@ -1052,7 +1052,7 @@
       "name": "易搜🛸网盘",
       "type": 3,
       "api": "csp_Yisou",
-      "jar": "https://gitee.com/zhaodehe/qlkj/raw/master/jar/xiaohu.jar",
+      "jar": "./jar/xiaohu.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
@@ -1064,12 +1064,12 @@
       "name": "夸克🛹网盘",
       "type": 3,
       "api": "csp_QuarkPanso",
-      "jar": "https://gitee.com/zhaodehe/qlkj/raw/master/jar/pgliu.jar",
+      "jar": "./jar/pgliu.jar",
       "changeable": 2,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitee.com/zhaodehe/qlkj/raw/master/json/PG推送.json",
+      "ext": "./json/PG推送.json",
       "timeout": 60
     },    
 
@@ -1078,7 +1078,7 @@
       "name": "盘搜🚢网盘",
       "type": 3,
       "api": "csp_AliPS",
-      "jar": "https://gitee.com/zhaodehe/qlkj/raw/master/jar/xiaohu.jar",
+      "jar": "./jar/xiaohu.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -1089,7 +1089,7 @@
       "name": "纸条🚃网盘",
       "type": 3,
       "api": "csp_Gitcafe",
-      "jar": "https://gitee.com/zhaodehe/qlkj/raw/master/jar/ttkx.jar",
+      "jar": "./jar/ttkx.jar",
       "changeable": 0,
       "searchable": 1,
       "quickSearch": 1,
