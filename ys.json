@@ -5,7 +5,7 @@
 "sites":[
 {
       "key": "豆瓣",  
-      "name": "奇乐科技┃q群540148140防迷路！",
+      "name": "奇乐科技┃加qq群540148140防迷失不定时更新，本接口免费，仅做学习交流！",
       "type": 3,
       "api": "./js/drpy2.min.js",
       "searchable": 0,
@@ -1115,8 +1115,8 @@
 
 {"key":"ext_live_protocol","name":"免费接口，自娱制作","type":3,"api":"csp_DuoX","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"cc","name":"请勿相信视频中任何广告","type":3,"api":"csp_XPath","searchable": 0,"quickSearch": 0},
-{"key":"hl","name":"02.28接口仅测试使用","type":3,"api":"csp_XPath","searchable": 0,"quickSearch": 0},
-{"key":"hl","name":"不定时更新，仅做学习交流","type":3,"api":"csp_XPath","searchable": 0,"quickSearch": 0},
+{"key":"hl","name":"02.24接口仅测试使用","type":3,"api":"csp_XPath","searchable": 0,"quickSearch": 0}
+],
 
 
 "parses":[
@@ -1149,4 +1149,3 @@
 "flags":["youku","优酷","优 酷","优酷视频", "qq","腾讯","腾 讯","腾讯视频", "iqiyi", "qiyi","奇艺","爱奇艺","爱 奇 艺", "m1905", "xigua", "letv","leshi","乐视","乐 视", "sohu","搜狐","搜 狐","搜狐视频", "tudou", "pptv", "mgtv","芒果","imgo","芒果TV","芒 果 T V", "bilibili","哔 哩","哔 哩 哔 哩"],
 "ads":["wan.51img1.com","www.72418.com","iqiyi.hbuioo.com","vip.ffzyad.com","https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"]
 }
-
