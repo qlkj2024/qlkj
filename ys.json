@@ -1115,9 +1115,8 @@
 
 {"key":"ext_live_protocol","name":"免费接口，自娱制作","type":3,"api":"csp_DuoX","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"cc","name":"请勿相信视频中任何广告","type":3,"api":"csp_XPath","searchable": 0,"quickSearch": 0},
-{"key":"hl","name":"02.28接口仅测试使用","type":3,"api":"csp_XPath","searchable": 0,"quickSearch": 0}
-],{"key":"hl","name":"不定时更新，仅做学习交流","type":3,"api":"csp_XPath","searchable": 0,"quickSearch": 0}
-],
+{"key":"hl","name":"02.28接口仅测试使用","type":3,"api":"csp_XPath","searchable": 0,"quickSearch": 0},
+{"key":"hl","name":"不定时更新，仅做学习交流","type":3,"api":"csp_XPath","searchable": 0,"quickSearch": 0},
 
 
 "parses":[
