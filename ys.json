@@ -38,21 +38,6 @@
       },
       "ext": "./json/PG推送.json"
     },
-      {
-            "ext": "eyJhcGkiOiJodHRwOi8vdHZib3gucWxrankuY24iLCJ0b2tlbiI6IiJ9",
-            "filterable": 1,
-            "quickSearch": 1,
-            "name": "奇乐科技🧓自营4K",
-            "changeable": 0,
-            "jar": "http://tvbox.qlkjy.cn/spring.jar",
-            "style": {
-                "type": "rect"
-            },
-            "api": "csp_XiaoYa",
-            "type": 3,
-            "key": "csp_XiaoYa",
-            "searchable": 1
-        },
 {
       "key": "csp_XYQHikerAL_玩偶哥哥",
       "name": "玩偶⚗️臻享4K",
