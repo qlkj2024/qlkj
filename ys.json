@@ -1,7 +1,7 @@
 {
 "spider":"./jar/dongchen.jar",
 "wallpaper":"https://vi2.xiu123.cn/live/2023/08/15/17/1001v1692091979226192412.png",
-
+"spider":"./jar/fan.txt;md5;69c44556911acb40c53846bd52873fee",
 "sites":[
 {
       "key": "豆瓣",  
@@ -448,6 +448,8 @@
             "quickSearch": 1,
             "changeable": 0
         },
+        {"key":"新6V","name":"🧲新6V┃磁力","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"changeable":0,"ext": "http://www.xb6v.com/"},
+
          {
             "key": "nangua",
             "name": "🎃┃南瓜┃影视",
@@ -455,6 +457,14 @@
             "playerType": "2",
             "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
             "ext": "http://dt.xn--yety82d.love/js/南瓜.js"
+        }, 
+        {
+            "key": "小胡",
+            "name": "🍈️┃小胡┃影视",
+            "type": 3,
+            "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
+            "ext": "http://dt.xn--yety82d.love/js/小胡.js",
+            "playerType": 2
         },
 {
       "key": "gg",
