@@ -1,7 +1,6 @@
 {
-"spider":"./jar/dongchen.jar",
+"spider":"./jar/ql.jar",
 "wallpaper":"https://vi2.xiu123.cn/live/2023/08/15/17/1001v1692091979226192412.png",
-"spider":"./jar/fan.txt;md5;69c44556911acb40c53846bd52873fee",
 "sites":[
 {
       "key": "豆瓣",  
