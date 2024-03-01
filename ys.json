@@ -437,7 +437,25 @@
       "changeable": 1,
       "ext": "./js/jianpian.js"
     },
-{"key":"新6V","name":"🧲新6V┃磁力","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"changeable":0,"ext": "http://www.xb6v.com/"},
+     {
+            "key": "赞赞",
+            "name": "➕1080P┃切片",
+            "type": 3,
+            "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
+            "api": "csp_AppYsV2",
+            "ext": "http://111.230.51.151:2323/api.php/app/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0
+        },
+         {
+            "key": "nangua",
+            "name": "🎃┃南瓜┃影视",
+            "type": 3,
+            "playerType": "2",
+            "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
+            "ext": "http://dt.xn--yety82d.love/js/南瓜.js"
+        },
 {
       "key": "gg",
       "name": "高光🏝外剧",
