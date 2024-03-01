@@ -38,6 +38,21 @@
       },
       "ext": "./json/PG推送.json"
     },
+      {
+            "ext": "eyJhcGkiOiJodHRwOi8vdHZib3gucWxrankuY24iLCJ0b2tlbiI6IiJ9",
+            "filterable": 1,
+            "quickSearch": 1,
+            "name": "奇乐科技🧓自营4K",
+            "changeable": 0,
+            "jar": "http://tvbox.qlkjy.cn/spring.jar",
+            "style": {
+                "type": "rect"
+            },
+            "api": "csp_XiaoYa",
+            "type": 3,
+            "key": "csp_XiaoYa",
+            "searchable": 1
+        },
 {
       "key": "csp_XYQHikerAL_玩偶哥哥",
       "name": "玩偶⚗️臻享4K",
@@ -837,6 +852,16 @@
     },
 
 {
+      "key": "侠客影院",
+      "name": "侠客💖App",
+      "type": 3,
+      "api": "csp_qiao2",
+      "jar": "https://jihulab.com/0004/c/-/raw/main/j.txt?ref_type=heads",
+      "playerType": 2,
+      "ext": "https://jihulab.com/qiaoji/open/-/raw/main/qiaoji5"
+    },
+
+{
       "key": "看球",
       "name": "看球⚾直播",
       "type": 3,
@@ -1145,7 +1170,9 @@
 {"name": "嗅探二","type": 0,"url": "https://jx.jsonplayer.com/player/?url="},
 {"name": "嗅探三","type": 0,"url": "https://jx.bozrc.com:4433/player/?url="},
 {"name": "嗅探四","type": 0,"url": "https://jx.777jiexi.com/player/?url="},
-{"name": "嗅探五","type": 0,"url": "https://jx.xmflv.com/?url="},
+{"name": "嗅探五","type": 0,"url": "https://jx.xmflv.com/?url="}
+],
+
 "rules":[{"name":"量子","hosts":["vip.lz","hd.lz"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},{"name":"非凡","hosts":["vip.ffzy","hd.ffzy"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},{"name":"火山","hosts":["huoshan.com"],"regex":["item_id="]},{"name":"抖音","hosts":["douyin.com"],"regex":["is_play_url="]},{"name":"抖音嗅探","hosts":["www.sharenice.net"],"rule": ["douyin.com","/play/"]}],
 "lives":[{"name":"live","type":0,"url":"https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
 "flags":["youku","优酷","优 酷","优酷视频", "qq","腾讯","腾 讯","腾讯视频", "iqiyi", "qiyi","奇艺","爱奇艺","爱 奇 艺", "m1905", "xigua", "letv","leshi","乐视","乐 视", "sohu","搜狐","搜 狐","搜狐视频", "tudou", "pptv", "mgtv","芒果","imgo","芒果TV","芒 果 T V", "bilibili","哔 哩","哔 哩 哔 哩"],
