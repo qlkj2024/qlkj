@@ -852,16 +852,6 @@
     },
 
 {
-      "key": "侠客影院",
-      "name": "侠客💖App",
-      "type": 3,
-      "api": "csp_qiao2",
-      "jar": "https://jihulab.com/0004/c/-/raw/main/j.txt?ref_type=heads",
-      "playerType": 2,
-      "ext": "https://jihulab.com/qiaoji/open/-/raw/main/qiaoji5"
-    },
-
-{
       "key": "看球",
       "name": "看球⚾直播",
       "type": 3,
