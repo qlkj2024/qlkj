@@ -118,7 +118,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://wwww.wogg.xyz/$$$弹"
     },
 {
       "key": "csp_XYQHikerAL_土豆",
@@ -441,12 +441,13 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0
-        },
+        }, 
+        {"key":"新6V","name":"🧲新6V┃磁力","type":3,"api":"csp_SixV","jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1708249660012/fan.txt","searchable":1,"quickSearch":1,"changeable":0,"ext": "http://www.xb6v.com/"}, 
  {"key": "csp_XYQHiker_BT天堂","name":"🧲✈️BT天堂","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/zhaodehe/gao/raw/master/XYQHiker/BT%E5%A4%A9%E5%A0%82.json"},
  {"key": "csp_XYQHiker_磁力熊","name":"🧲磁力熊","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/zhaodehe/gao/raw/master/XYQHiker/磁力熊.json"},
   {"key": "csp_XYQHikerAL_4KHDR","name":"🧲📀4KHDR(盘/磁)","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/zhaodehe/gao/raw/master/XYQHiker/4KHDR.json"},        
        {"key": "csp_XYQHiker_电影港","name":"🧲电影港(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/zhaodehe/gao/raw/master/XYQHiker/电影港磁力.json"},
-       {"key":"新6V","name":"🧲新6V┃磁力","type":3,"api":"csp_SixV","jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1708249660012/fan.txt","searchable":1,"quickSearch":1,"changeable":0,"ext": "http://www.xb6v.com/"},  {
+      {
             "key": "nangua",
             "name": "🎃┃南瓜┃影视",
             "type": 3,
