@@ -463,17 +463,6 @@
             "ext": "http://dt.xn--yety82d.love/js/小胡.js",
             "playerType": 2
         },
-{
-      "key": "gg",
-      "name": "高光🏝外剧",
-      "type": 3,
-      "api": "csp_WebGGYS",
-      "jar": "https://d.kstore.space/download/6474/tvbox/jar/YSZYZ.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://ggys.me"
-    },
 
 {
       "key": "AList",
@@ -618,18 +607,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "ext": "./json/yinyue.json"
-    },
-
-{
-      "key": "JustLive",
-      "name": "游戏👑直播",
-      "type": 3,
-      "api": "./js/drpy.min.js",
-      "searchable": 0,
-      "changeable": 0,
-      "ext": "./json/js/justlive.js"
     },        
-
 {
       "key": "meowtv_Libo",
       "name": "利播🌕韩剧",
@@ -642,17 +620,6 @@
       "ext": "https://www.libvio.pw/"
     },
 
-{
-      "key": "Bdys_spider",
-      "name": "哔滴💧直连",
-      "api": "csp_Bdys01",
-      "jar": "./jar/fix.jar",
-      "type": 3,
-      "filterable": 1,
-      "quickSearch": 1,
-      "searchable": 1,
-      "ext": ""
-    },
 {
       "key": "csp_Kuaikan",
       "name": "快看🏖直连",
@@ -676,15 +643,6 @@
       "ext": "./json/zizi.json"
     },   
 
-{
-      "key": "星星",
-      "name": "星星☘️蓝光",
-      "type": 3,
-      "api": "csp_Appto",
-      "jar": "./jar/fix.jar",
-      "playerType": 2,
-      "ext": "DRKzxyMKvtSwY8KlZf2E0UaodOFwpc55fZ8i/57cIgQJHQLy6PnKLAAj9UrkpoexlNCAomzVttbI6D6TEnlHNVDqRhIQqGlHt8m6PjVxP7PSlmraDar52uqEU7UXaaV+UGqz0bc9q95VVRMK4uX5l674wT+p5Cp2QGr1D24Uz7QNkA6GgkDGW/ezLoYsXUCc7xsDK5ev51cJxn0cIJClFysrOGsTvyLYjYIF2ktu+F36QVcAsAvA6Jpyz2hSTlWadidOt2m81TA5yrfAKjBILuQ63gcnyXh6SH9VjER5dL2KD8iTVBAN3L9TlQqDHPr64N0D6mAldXLMYJM/RrTUznCbIno7V/eTT+YqnLWNekVigNB8Q7Fp3WgMYfk73VYcOqPKO2qwQWyJqaQDW4Uo7nFrQWttqYAwWEDhjM/ABuYLkLX9V83/QFOPkhBJZ+eQoqsiVP3ZugFGB5/XuVZkoYWaG00BRQ3j55vTflJ2ne0WQcFAj6GcYNLodkII4Ji53kVoL+w55Cc9PmtSR1tynlWDylYBfkJbtDOJSuEUKDnKiD/ZFqMAejQFV9EcZr1g6QbLIf/FRldeLYRxsYsWPFc2STqEdgGA+osyO/zzyaeZLH5AJ02l7kKyMxKMPaRF2MGX1DPnZHrbXA4u0A5Vy3M3IMFNZaR0f08C4KDDi1xY="
-    },
 
 {
      "key":"好戏影视",
@@ -813,17 +771,6 @@
       "ext": "./js/cangzan.js"
     },
 
-{
-      "key": "meowtv_syys",
-      "name": "速映🐨影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "./jar/spider1.png",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/suying.json"
-    },
 
 {
       "key": "COKEMV影院",
@@ -888,7 +835,7 @@
       "key": "NT动漫",
       "name": "NT🎀动漫",
       "type": 3,
-      "api": "..../js/drpy2.min.js",
+      "api": "./js/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -905,7 +852,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "https://gitee.com/zhaodehe/qlkj/raw/master/js/lumanman.js"
+      "ext": "./js/lumanman.js"
     },
 
 {
