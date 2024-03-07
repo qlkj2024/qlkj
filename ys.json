@@ -106,7 +106,7 @@
       "playerType": 2,
       "timeout": 30,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
+      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
     },
 
    {
@@ -154,7 +154,7 @@
      "changeable":1, 
      "filterable":1, 
      "timeout":30, 
-     "ext":"./json/PG推送.json$$$https://wogg.xyz/$$$null$$$1$$$https://gitee.com/zhaodehe/qlkj/raw/master/json/wogg.json"
+     "ext":"https://gitee.com/dongchenys/liu/raw/master/json/PG推送.json$$$https://wogg.xyz/$$$null$$$1$$$https://gitee.com/dongchenys/liu/raw/master/json/wogg.json"
 },
 
 {
@@ -167,7 +167,7 @@
       "changeable":1, 
       "filterable":1,
       "timeout":30,
-      "ext":"./json/PG推送.json$$$https://xzyshd.com$$$null$$$1"
+      "ext":"https://gitee.com/dongchenys/liu/raw/master/json/PG推送.json$$$https://xzyshd.com$$$null$$$1"
 },
 
 {
