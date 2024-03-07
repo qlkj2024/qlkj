@@ -144,18 +144,6 @@
       "ext":"./json/PG推送.json$$$null$$$1"
 },
 
-{
-     "key":"玩偶PG",
-     "name":"玩偶🍺蓝光4K",
-     "type":3,
-     "api":"csp_Wogg",
-     "jar": "./jar/PG.jar",
-     "quickSearch":1, 
-     "changeable":1, 
-     "filterable":1, 
-     "timeout":30, 
-     "ext":"https://gitee.com/dongchenys/liu/raw/master/json/PG推送.json$$$https://wogg.xyz/$$$null$$$1$$$https://gitee.com/dongchenys/liu/raw/master/json/wogg.json"
-},
 
 {
       "key":"校长影视",
