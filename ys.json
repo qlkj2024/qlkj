@@ -547,11 +547,14 @@
     },
 
 {
-  "key": "短剧one",
-  "name": "one🥰短剧",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "ext": "./json/oneduanju.json"
+     "key": "短剧",
+      "name": "one🥰短剧",
+      "type": 3,
+      "api": "csp_Duanju",
+      "jar": "./jar/pg2.jar",
+      "searchable": 0,
+      "changeable": 1,
+      "ext": "https://www.duanjutv.icu"
     },
 
 {
@@ -807,16 +810,16 @@
       }
     },
     {
-      "key": "drpy_js_310直播",
+      "key": "310js",
       "name": "体育🏀直播",
       "type": 3,
-      "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
+      "api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
       "changeable": 0,
       "gridview": 3,
       "style": {
         "type": "list"
       },
-      "ext": "https://d.kstore.space/download/6296/js/310直播.js"
+      "ext": "ttps://agit.ai/fantaiying/fty/raw/branch/master/ext/310直播.js"
     },
 
 {
