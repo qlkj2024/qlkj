@@ -49,14 +49,6 @@
       "ext": "./json/woggzx.json"
     },
 {
-      "key": "Fangniu4k",
-      "name": "放牛4K",
-      "type": 3,
-      "api": "csp_Fangniu4k",
-      "searchable": 1,
-      "changeable": 0,
-      "jar":"./jar/fangniu.jar"},
-{
       "key": "一青叶我_开心玩偶",
       "name": "开心🍹臻享4K",
       "type": 3,
@@ -150,7 +142,14 @@
       "timeout":30,
       "ext":"https://gitee.com/dongchenys/liu/raw/master/json/PG推送.json$$$https://xzyshd.com$$$null$$$1"
 },
-
+{
+      "key": "Fangniu4k",
+      "name": "放牛4K",
+      "type": 3,
+      "api": "csp_Fangniu4k",
+      "searchable": 1,
+      "changeable": 0,
+      "jar":"./jar/fangniu.jar"},
 {
       "key": "csp_xpath_yinfans",
       "name": "音范丝💥蓝光4K",
@@ -689,7 +688,17 @@
       "quickSearch": 0,
       "filterable": 1
     },
-
+{
+      "key": "大师兄js",
+      "name": "大师兄🎉影视",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "api": "./js/drpy3.min.js",
+      "ext": "./js/dashixiong.js",
+      "timeout": 15
+    },
 
 {
             "key": "开心HK影视",
