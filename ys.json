@@ -137,7 +137,8 @@
       "timeout":30, 
       "ext":"./json/PG推送.json$$$null$$$1"
 },
-
+    {"key":"玩偶表哥","name":"表哥阿里4k","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":2, "jar":"https://jihulab.com/0004/c/-/raw/main/PG.txt","ext":"https://agit.ai/alanchaotang/if/raw/branch/main/pg/lib/tokenm.json$$$https://wobge.run.goorm.io$$$1$$$./json/wogg.json","timeout":60},
+    {"key":"影视仓","name":"影视阿里4k","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"changeable":0, "jar":"https://jihulab.com/0004/c/-/raw/main/PG.txt","ext":"https://agit.ai/alanchaotang/if/raw/branch/main/pg/lib/tokenm.json$$$https://www.weixine.net$$$1$$$./json/wogg.json","timeout":60},
 
 {
       "key":"校长影视",
@@ -424,6 +425,16 @@
             "quickSearch": 1,
             "changeable": 0
         }, 
+
+    {"key":"草莓熊",
+    "name":"草莓磁力4k",
+    "type":3,
+    "api":"https://raw.gitcode.com/tvbox/4k/raw/main/lab/drpy2.min.js",
+    "searchable":1,
+    "filterable":1,
+    "changeable":1,
+    "timeout":25,
+    "ext":"https://raw.gitcode.com/tvbox/4k/raw/main/js/草莓熊.js"},
         {"key":"新6V","name":"🧲新6V┃磁力","type":3,"api":"csp_SixV","jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1708249660012/fan.txt","searchable":1,"quickSearch":1,"changeable":0,"ext": "http://www.xb6v.com/"}, 
  {"key": "csp_XYQHiker_BT天堂","name":"🧲✈️BT天堂","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/zhaodehe/gao/raw/master/XYQHiker/BT%E5%A4%A9%E5%A0%82.json"},
  {"key": "csp_XYQHiker_磁力熊","name":"🧲磁力熊","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/zhaodehe/gao/raw/master/XYQHiker/磁力熊.json"},
