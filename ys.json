@@ -48,7 +48,14 @@
       "filterable": 1,
       "ext": "./json/woggzx.json"
     },
-
+{
+      "key": "Fangniu4k",
+      "name": "放牛4K",
+      "type": 3,
+      "api": "csp_Fangniu4k",
+      "searchable": 1,
+      "changeable": 0,
+      "jar":"./jar/fangniu.jar"},
 {
       "key": "一青叶我_开心玩偶",
       "name": "开心🍹臻享4K",
