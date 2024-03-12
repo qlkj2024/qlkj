@@ -128,38 +128,7 @@
       "timeout":30, 
       "ext":"./json/PG推送.json$$$null$$$1"
 },
-  {
-      "key": "Hdhive",
-      "name": "4K-影巢┃弹幕",
-      "type": 3,
-      "api": "csp_Hdhive",
-      "jar": "http://www.wya6.cn/tz/wypg.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://www.wya6.cn/tz/pgts.php$$$null$$$1"
-    }, {
-      "key": "团长资源",
-      "name": "4K-雪凝┃弹幕",
-      "type": 3,
-      "api": "csp_TZFile",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 30,
-      "ext": "http://www.wya6.cn/tz/pgts.php$$$null$$$1",
-      "jar": "http://www.wya6.cn/tz/wypg.php"
-    }, {
-      "key": "玩偶表妹",
-      "name": "❤️玩偶妹┃4K",
-      "type": 3,
-      "api": "csp_XYQHikerAL",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://raw.gitcode.com/wykj/ys/raw/main/js/wobm.json",
-      "jar": "http://www.wya6.cn/tz/wyog.php"
-    },
+  
 {
       "key": "Fangniu4k",
       "name": "放牛4K",
