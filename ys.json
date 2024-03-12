@@ -130,18 +130,6 @@
 },
 
 {
-      "key":"校长影视",
-      "name":"校长🛶蓝光4K",
-      "type":3,
-      "api":"csp_XiaoZhang",
-      "jar": "./jar/PG.jar",
-      "quickSearch":1, 
-      "changeable":1, 
-      "filterable":1,
-      "timeout":30,
-      "ext":"https://gitee.com/dongchenys/liu/raw/master/json/PG推送.json$$$https://xzyshd.com$$$null$$$1"
-},
-{
       "key": "Fangniu4k",
       "name": "放牛4K",
       "type": 3,
@@ -893,8 +881,30 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0
+    },   {
+      "key": "push_agent",
+      "name": "🛴手机┃推送",
+      "type": 3,
+      "api": "csp_Push", 
+       "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1708249660012/fan.txt",
+      "searchable": 0,
+      "quickSearch": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
     },
-
+   {
+      "key": "Aid",
+      "name": "🚑急救┃教学",
+      "type": 3,
+      "api": "csp_FirstAid",
+           "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1708249660012/fan.txt",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 3.8
+      }
+    },
 {
       "key": "Bili",
       "name": "哔哔🅱合集",
