@@ -441,20 +441,6 @@
         },
 
 {
-      "key": "AList",
-      "name": "网盘📕雅雅",
-      "type": 3,
-      "api": "csp_AListBox",
-      "jar": "https://d.kstore.space/download/6474/tvbox/jar/YSZYZ.jar",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": "https://d.kstore.space/download/6474/tvbox/json/xy.json#公众号:影视资源站",
-      "style": {
-        "type": "list"
-      }
-    },
-
-{
       "key": "量子资源",
       "name": "量子🥑超清",
       "type": 1,
@@ -1099,7 +1085,7 @@
 
 {"key":"ext_live_protocol","name":"免费接口，自娱制作","type":3,"api":"csp_DuoX","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"cc","name":"请勿相信视频中任何广告","type":3,"api":"csp_XPath","searchable": 0,"quickSearch": 0},
-{"key":"hl","name":"02.28接口仅测试学习使用","type":3,"api":"csp_XPath","searchable": 0,"quickSearch": 0}
+{"key":"hl","name":"03.12接口仅测试学习使用","type":3,"api":"csp_XPath","searchable": 0,"quickSearch": 0}
 ],
 
 
