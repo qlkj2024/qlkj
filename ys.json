@@ -23,6 +23,16 @@
       "filterable": 0,
       "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"
     },
+     {
+      "key": "网盘配置",
+      "name": "网盘及彈幕配置",
+      "type": 3,
+      "api": "csp_Config",
+         "jar": "./jar/pg.jar",
+      "searchable": 0,
+      "changeable": 0,
+      "ext": "https://agit.ai/leevi/PiG/raw/branch/master/lib/tokenm.json"
+    },
 {
       "key": "配置中心",
       "name": "极速GO原画及夸克🏬配置",
