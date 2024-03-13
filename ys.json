@@ -158,7 +158,9 @@
       "filterable": 1,
       "ext": "./json/infans.json"
     },
-
+	{"key":"Wobg","name":"玩偶表哥|网盘","type":3,"api":"csp_Wobg",   "jar": "./jar/pg.jar","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"https://agit.ai/leevi/PiG/raw/branch/master//lib/tokenm.json$$$https://wobge.run.goorm.io$$$null$$$1$$$https://agit.ai/leevi/PiG/raw/branch/master//lib/wogg.json"},	
+    {"key":"Yscapp","name":"影视车|App","type":3,"api":"csp_Yscapp", "jar": "./jar/pg.jar","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "playerType":1, "playerType":1, "ext":"1"},
+	
 {
       "key": "csp_Czzy",
       "name": "厂长🏭蓝光",
@@ -429,6 +431,18 @@
             "quickSearch": 1,
             "changeable": 0
         }, 
+        {
+			"key": "Bdys_spider",
+			"name": "哔滴┃磁力",
+			"api": "csp_Bdys01",
+               "jar": "./jar/pg.jar",
+			"type": 3,
+			"filterable": 1,
+			"searchable":0,
+			"quickSearch": 1,
+			"searchable": 1,
+			"ext": "https://www.bdys10.com/$$$null$$$1"
+		},
         {"key":"新6V","name":"🧲新6V┃磁力","type":3,"api":"csp_SixV","jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1708249660012/fan.txt","searchable":1,"quickSearch":1,"changeable":0,"ext": "http://www.xb6v.com/"}, 
  {"key": "csp_XYQHiker_BT天堂","name":"🧲✈️BT天堂","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/zhaodehe/gao/raw/master/XYQHiker/BT%E5%A4%A9%E5%A0%82.json"},
  {"key": "csp_XYQHiker_磁力熊","name":"🧲磁力熊","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/zhaodehe/gao/raw/master/XYQHiker/磁力熊.json"},
