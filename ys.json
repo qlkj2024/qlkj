@@ -128,6 +128,18 @@
       "timeout":30, 
       "ext":"./json/PG推送.json$$$null$$$1"
 },
+{
+      "key": "影视车",
+      "name": "运输车🚛网盘4K",
+      "type": 3,
+      "api": "csp_Wogg",
+      "jar": "./jar/PG.jar",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 60,
+      "ext": "https://gitee.com/zhaodehe/qlkj/raw/master/json/PG推送.json$$$https://www.weixine.link/$$$null$$$1$$$https://gitee.com/zhaodehe/qlkj/raw/master/json/wogg.json"
+    },
   
 {
       "key": "Fangniu4k",
