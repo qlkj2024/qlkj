@@ -128,18 +128,6 @@
       "timeout":30, 
       "ext":"./json/PG推送.json$$$null$$$1"
 },
-{
-      "key": "影视车",
-      "name": "运输车🚛网盘4K",
-      "type": 3,
-      "api": "csp_Wogg",
-      "jar": "./jar/PG.jar",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 60,
-      "ext": "https://gitee.com/zhaodehe/qlkj/raw/master/json/PG推送.json$$$https://www.weixine.link/$$$null$$$1$$$https://gitee.com/zhaodehe/qlkj/raw/master/json/wogg.json"
-    },
   
 {
       "key": "Fangniu4k",
@@ -210,6 +198,13 @@
         "港台综艺",
         "欧美综艺"
       ]
+    },
+     {
+      "key": "直播转点播1",
+      "name": "📡电视直播",
+      "type": 3,
+      "api": "http://itvbox.cc/tvbox/云星日记/sh/js/直播转点播.js",
+      "ext": "http://itvbox.cc/tvbox/云星日记/sh/js/直播.txt"
     },
   {
       "key": "一起看 ",
