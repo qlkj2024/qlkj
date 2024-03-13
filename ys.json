@@ -199,13 +199,7 @@
         "欧美综艺"
       ]
     },
-     {
-      "key": "直播转点播1",
-      "name": "📡电视直播",
-      "type": 3,
-      "api": "http://itvbox.cc/tvbox/云星日记/sh/js/直播转点播.js",
-      "ext": "http://itvbox.cc/tvbox/云星日记/sh/js/直播.txt"
-    },
+
   {
       "key": "一起看 ",
       "name": "🎉一起┃App",
@@ -785,7 +779,13 @@
       "playerType": 2,
       "ext": "https://jihulab.com/qiaoji/open/-/raw/main/qiaoji5"
     },
-
+   {
+      "key": "直播转点播1",
+      "name": "📡电视直播",
+      "type": 3,
+      "api": "http://itvbox.cc/tvbox/云星日记/sh/js/直播转点播.js",
+      "ext": "http://itvbox.cc/tvbox/云星日记/sh/js/直播.txt"
+    },
 {
       "key": "看球",
       "name": "看球⚾直播",
