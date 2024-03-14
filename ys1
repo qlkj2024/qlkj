@@ -37,63 +37,6 @@
       },
       "ext": "./json/PG推送.json"
     },
-{
-      "key": "csp_XYQHikerAL_玩偶哥哥",
-      "name": "玩偶⚗️臻享4K",
-      "type": 3,
-      "api": "csp_XYQHikerAL",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/woggzx.json"
-    },
-{
-      "key": "一青叶我_开心玩偶",
-      "name": "开心🍹臻享4K",
-      "type": 3,
-      "api": "csp_XYQHikerAL",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/kaixinwogg.json"
-    },
-
-{
-      "key": "csp_XYQHikerAL_影视车弟弟",
-      "name": "影视车🚛臻享4K",
-      "type": 3,
-      "api": "csp_XYQHikerAL",
-      "jar": "./jar/xyqwogg.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/yingshiche.json"
-    },
-
-{
-      "key": "Gitcafe",
-      "name": "云盘🧓臻享4K",
-      "type": 3,
-      "api": "csp_Paper",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "./jar/HeChengChaXiu.jar",
-      "ext": "./json/PG推送.json"
-    },
-
-{
-      "key": "csp_XYQHikerAL_阿里苏苏",
-      "name": "苏苏🛰️臻享4K",
-      "type": 3,
-      "api": "csp_XYQHikerAL",
-      "jar": "./jar/xyqwogg.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/alisusu.json"
-    },
-
    {
       "key": "玩偶哥哥",
       "name": "玩偶⛅弹幕4K",
@@ -105,29 +48,6 @@
       "filterable": 1,
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://wwww.wogg.xyz/$$$弹"
     },
-{
-      "key": "csp_XYQHikerAL_土豆",
-      "name": "土豆🥔臻享4K",
-      "type": 3,
-      "api": "csp_XYQHikerAL",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/tudou.json"
-    },
-
-{
-      "key":"Hdhive",
-      "name":"影巢🚜臻享4K",
-      "type":3,
-      "api":"csp_Hdhive",
-      "jar": "./jar/pg2.jar",
-      "quickSearch":1,
-      "changeable":1,
-      "filterable":1, 
-      "timeout":30, 
-      "ext":"./json/PG推送.json$$$null$$$1"
-},
   
 {
       "key": "Fangniu4k",
