@@ -783,7 +783,33 @@
       "filterable": 1,
       "ext": "./json/panghuys.json"
     },
-
+{
+      "key": "河马",
+      "name": "河马┃App",
+      "type": 3,
+      "api": "csp_Hmys",
+              "jar": "./jar/pg.jar",
+      "playerType": 1,
+      "ext": "https://m.jmzp.net.cn$$$null$$$1"
+    },
+    {
+      "key": "天天",
+      "name": "天天┃App",
+      "type": 3,
+      "api": "csp_TTian",
+              "jar": "./jar/pg.jar",
+      "playerType": 1,
+      "ext": "http://op.ysdqjs.cn$$$null$$$1"
+    },
+    {
+      "key": "追剧",
+      "name": "追剧┃App",
+      "type": 3,
+      "api": "csp_TTian",
+              "jar": "./jar/pg.jar",
+      "playerType": 1,
+      "ext": "http://app.kzjtv.com$$$null$$$1"
+    },
 {
       "key": "侠客影院",
       "name": "侠客💖App",
