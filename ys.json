@@ -36,7 +36,16 @@
       },
       "ext": "./json/PG推送.json"
     },
-    {"key":"Local","name":"本地","type":3,"api":"csp_Local","jar": "https://agit.ai/leevi/PiG/raw/branch/master/pg.jar"},
+    {
+			"key": "网盘配置",
+			"name": "网盘及彈幕配置",
+			"type": 3,
+			"api": "csp_Config",
+      "jar": "./jar/pg.jar",
+			"searchable": 0,
+			"changeable": 0,
+			"ext":"./lib/tokenm.json"
+		},
 {
       "key": "csp_XYQHikerAL_玩偶哥哥",
       "name": "玩偶⚗️臻享4K",
