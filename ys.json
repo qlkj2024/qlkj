@@ -146,6 +146,7 @@
       "changeable": 0,
       "jar":"./jar/fangniu.jar"},
       {"key":"Xpanpan","name":"小盘盘|网盘","type":3,"api":"csp_Xpanpan",  "jar": "./jar/pg.jar","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://xpanpan.site$$$null$$$1"},
+      {"key":"混合盘","name":"混合盘|网盘","type":3,"api":"csp_HunHePan", "jar": "./jar/pg.jar","timeout":60, "ext":"./lib/tokenm.json"},
 {
       "key": "csp_xpath_yinfans",
       "name": "音范丝💥蓝光4K",
@@ -272,20 +273,6 @@
         "港台综艺",
         "欧美综艺"
       ]
-    },
-    {
-      "key": "️爱看Bot弹幕版",
-      "name": "🤍爱看｜蓝光",
-      "type": 3,
-      "api": "csp_Ikanbot",
-      "jar": "https://atomgit.com/smdy/top-level/raw/master/jar/myok.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "danmu": true
-      },
-      "timeout": 10
     },
   {
       "key": "一起看 ",
@@ -532,7 +519,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "timeout": 60
-    },
+    },{"key":"Bt0","name":"不太灵|磁力","type":3,"api":"csp_Bt0", "jar": "./jar/pg.jar","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"null$$$null$$$1"},
    {
 			"key": "NanGua",
 			"name": "🎃|南瓜|弹幕",
@@ -1135,84 +1122,6 @@
       "filterable": 1,
       "ext":"http://rihou.vip:55/lib/Bili短剧.json"
       },
-
-    {
-      "key": "混合网盘",
-      "name": "混合🚲网盘",
-      "type": 3,
-      "api": "csp_HunHePan",
-      "jar": "./jar/pg.jar",
-      "changeable": 0,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "./json/PG推送.json",
-      "timeout": 30
-    },
-
-    {
-      "key": "易搜",
-      "name": "易搜🛸网盘",
-      "type": 3,
-      "api": "csp_Yisou",
-      "jar": "./jar/xiaohu.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt+4k|fhd|auto"
-    },
-
-{
-      "key": "夸克盘搜",
-      "name": "夸克🛹网盘",
-      "type": 3,
-      "api": "csp_QuarkPanso",
-      "jar": "./jar/pgliu.jar",
-      "changeable": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "./json/PG推送.json",
-      "timeout": 60
-    },    
-
-    {
-      "key": "盘搜",
-      "name": "盘搜🚢网盘",
-      "type": 3,
-      "api": "csp_AliPS",
-      "jar": "./jar/xiaohu.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-
-    {
-      "key": "纸条",
-      "name": "纸条🚃网盘",
-      "type": 3,
-      "api": "csp_Gitcafe",
-      "jar": "./jar/ttkx.jar",
-      "changeable": 0,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt+4k|fhd|auto",
-      "timeout": 30
-    },
-
-    {
-      "key": "csp_AliPS",
-      "name": "喵狸🚂网盘",
-      "type": 3,
-      "api": "csp_AliPS",
-      "changeable": 0,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt+4k|fhd|auto",
-      "timeout": 30
-    },
  {
       "key": "alist",
       "name": "🍰┃小鸭┃网盘",
