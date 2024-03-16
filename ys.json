@@ -51,7 +51,7 @@
     },
 {
       "key": "配置中心",
-      "name": "极速GO原画及夸克🏬配置",
+      "name": "原画及夸克配置",
       "type": 3,
       "api": "csp_Config",
       "jar": "./jar/pg2.jar",
@@ -104,18 +104,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./json/yingshiche.json"
-    },
-
-{
-      "key": "Gitcafe",
-      "name": "云盘🧓臻享4K",
-      "type": 3,
-      "api": "csp_Paper",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "./jar/HeChengChaXiu.jar",
-      "ext": "./json/PG推送.json"
     },
 
 {
