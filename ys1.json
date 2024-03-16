@@ -4,7 +4,7 @@
 "sites":[
 {
       "key": "豆瓣",  
-      "name": "奇乐科技┃加qq群291807877防迷路！",
+      "name": "奇乐科技┃加qq群291807877防迷路！接口地址将于近期更换！",
       "type": 3,
       "api": "csp_DouDou",
       "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1705832521307/fan.txt",
@@ -12,6 +12,22 @@
       "quickSearch": 0,
       "filterable": 0
                 },
+                {"key":"奇乐科技","name":"奇乐科技|3.16更新",
+                "type":3,"api":"csp_XBPQ",
+                 "jar": "./jar/spider.jar",
+                 "playerType":2,"searchable":0,
+                 "ext":{"首页":"正在热映",
+                 "图片代理":"",
+                 "分类url":"https://movie.douban.com/{cateId}/;;aRC",
+                 "分类":"预告片：公众号【奇乐技术网】$cinema/later#正在热映$cinema/nowplaying",
+                 "数组":"class=\"item mod &&</ul>||正在热映--class=\"list-item&&</ul>",
+                 "图片":"src=\"&&\"","标题":"\"intro\">&&</a>",
+                 "链接":"href=\"&&\"",
+                 "副标题":"data-score=\"&&\"+class=\"release-date\">&&</li>",
+                 "播放数组":"<li class=\"video&&</li>",
+                 "播放列表":"<a&&</a>",
+                 "播放标题":"alt=\"&&\"",
+                 "播放链接":"https://m.douban.com+href=\"&&\""}},
                  {
             "key": "奇乐",
             "name": "奇乐自营|公众号-奇乐技术网",
@@ -35,7 +51,7 @@
     },
 {
       "key": "配置中心",
-      "name": "极速GO原画及夸克🏬配置",
+      "name": "原画及夸克配置",
       "type": 3,
       "api": "csp_Config",
       "jar": "./jar/pg2.jar",
@@ -88,18 +104,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./json/yingshiche.json"
-    },
-
-{
-      "key": "Gitcafe",
-      "name": "云盘🧓臻享4K",
-      "type": 3,
-      "api": "csp_Paper",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "./jar/HeChengChaXiu.jar",
-      "ext": "./json/PG推送.json"
     },
 
 {
