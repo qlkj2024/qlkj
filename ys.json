@@ -4,16 +4,6 @@
 "sites":[
 {
       "key": "豆瓣",  
-      "name": "公众号-奇乐技术网",
-      "type": 3,
-      "api": "csp_DouDou",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1705832521307/fan.txt",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
-                },
-{
-      "key": "豆瓣",  
       "name": "奇乐科技┃加qq群291807877防迷路！接口地址将于近期更换！",
       "type": 3,
       "api": "csp_DouDou",
@@ -22,6 +12,17 @@
       "quickSearch": 0,
       "filterable": 0
                 },
+                 {
+            "key": "赞赞",
+            "name": "公众号-奇乐技术网",
+            "type": 3,
+            "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
+            "api": "csp_AppYsV2",
+            "ext": "https://www.qlkjy.cn/api.php/app/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0
+        }, 
 {
       "key": "csp_KungFu404",
       "name": "🌥️┃Open原画┃设置",
@@ -498,17 +499,6 @@
             "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
             "api": "csp_AppYsV2",
             "ext": "http://111.230.51.151:2323/api.php/app/",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0
-        }, 
-          {
-            "key": "赞赞",
-            "name": "➕奇乐┃切片",
-            "type": 3,
-            "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
-            "api": "csp_AppYsV2",
-            "ext": "https://test.qlkjy.cn/api.php/app/",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0
