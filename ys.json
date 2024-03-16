@@ -4,6 +4,16 @@
 "sites":[
 {
       "key": "豆瓣",  
+      "name": "公众号-奇乐技术网",
+      "type": 3,
+      "api": "csp_DouDou",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1705832521307/fan.txt",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+                },
+{
+      "key": "豆瓣",  
       "name": "奇乐科技┃加qq群291807877防迷路！接口地址将于近期更换！",
       "type": 3,
       "api": "csp_DouDou",
