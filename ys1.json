@@ -153,6 +153,42 @@
       "ext":"./json/PG推送.json$$$null$$$1"
 },
 {
+      "key": "Ppxzy",
+      "name": "皮皮虾|网盘",
+      "type": 3,
+      "api": "csp_Ppxzy",
+           "jar": "https://agit.ai/leevi/PiG/raw/branch/master/pg.jar",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 60,
+      "ext": "./lib/tokenm.json$$$https://ppxzy.net$$$null$$$1"
+    },
+      {
+      "key": "校长影视",
+      "name": "校长影视|网盘",
+      "type": 3,
+      "api": "csp_XiaoZhang",
+         "jar": "https://agit.ai/leevi/PiG/raw/branch/master/pg.jar",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 60,
+      "ext": "./lib/tokenm.json$$$https://xzyshd.com$$$null$$$1"
+    },
+      {
+      "key": "美剧迷",
+      "name": "美剧迷|网盘",
+      "type": 3,
+      "api": "csp_Meijumi",
+      "jar": "https://agit.ai/leevi/PiG/raw/branch/master/pg.jar",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 60,
+      "ext": "./lib/tokenm.json$$$https://www.meijumi.xyz/$$$null$$$1"
+    },
+{
       "key": "csp_xpath_yinfans",
       "name": "音范丝💥蓝光4K",
       "type": 3,
@@ -716,15 +752,6 @@
       "playerType": 1,
       "ext": "http://app.kzjtv.com$$$null$$$1"
     },
-{
-     "key":"好戏影视",
-     "name":"好戏🦙蓝光",
-     "type":3,
-     "playerType":2,
-     "searchable":1,
-     "api":"csp_XBPQ",
-     "ext":"./json/haoxi.json"
-     },  
 
 {
       "key": "素白白影视",
