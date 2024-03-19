@@ -266,6 +266,15 @@
       "quickSearch": 1,
       "changeable": 1
     },
+       {
+      "key": "csp_Voflix",
+      "name": " 🎋┃Voflix┃影视",
+      "type": 3,
+      "api": "csp_Voflix",
+       "jar": "http://happy.xn--z7x900a.live/jar/PandaQ240318.jar;md5;5b59d2999497d6e0c1eb256bcd77f2c7r",
+      "playerType": "2",
+      "ext": "https://www.voflix.me/"
+    },
 {
       "key": "快云资源",
       "name": "快云🦚蓝光",
