@@ -727,17 +727,6 @@
      },  
 
 {
-      "key": "Free影视",
-      "name": "Free🌴蓝光",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/freeok.json"
-    },
-
-{
       "key": "素白白影视",
       "name": "素白🛰️蓝光",
       "type": 3,
@@ -874,15 +863,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./json/panghuys.json"
-    },
-{
-      "key": "侠客影院",
-      "name": "侠客💖App",
-      "type": 3,
-      "api": "csp_qiao2",
-      "jar": "https://jihulab.com/0004/c/-/raw/main/j.txt?ref_type=heads",
-      "playerType": 2,
-      "ext": "https://jihulab.com/qiaoji/open/-/raw/main/qiaoji5"
     },
    {
       "key": "直播转点播1",
