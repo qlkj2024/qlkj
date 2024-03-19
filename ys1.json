@@ -68,7 +68,7 @@
 			"name": "网盘及彈幕配置",
 			"type": 3,
 			"api": "csp_Config",
-      "jar": "./jar/pg.jar",
+      "jar": "https://agit.ai/leevi/PiG/raw/branch/master/pg.jar",
 			"searchable": 0,
 			"changeable": 0,
 			"ext":"./lib/tokenm.json"
@@ -202,38 +202,6 @@
         "token": "file://TV/ali_token.txt",
         "cookie": "file://TV/quark_cookie.txt",
         "site": "https://aliz.lvdoui.top",
-        "danmu": true
-      },
-      "timeout": 25
-    },
-    {
-      "key": "玩偶表哥弹幕",
-      "name": "😺碎月4K｜阿里",
-      "type": 3,
-      "api": "csp_Wobg",
-      "jar": "https://atomgit.com/smdy/top-level/raw/master/jar/myok.jar",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "ext": {
-        "token": "file://TV/ali_token.txt",
-        "cookie": "file://TV/quark_cookie.txt",
-        "danmu": true
-      },
-      "timeout": 25
-    },
-    {
-      "key": "团长弹幕版",
-      "name": "😺团长4K｜弹幕",
-      "type": 3,
-      "api": "csp_Tzfile",
-      "jar": "https://atomgit.com/smdy/top-level/raw/master/jar/myok.jar",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "token": "file://TV/ali_token.txt",
-        "cookie": "file://TV/quark_cookie.txt",
         "danmu": true
       },
       "timeout": 25
