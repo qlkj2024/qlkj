@@ -153,13 +153,17 @@
       "ext":"./json/PG推送.json$$$null$$$1"
 },
 {
-      "key": "Fangniu4k",
-      "name": "放牛4K",
+      "key": "Wobg",
+      "name": "玩偶表哥|网盘",
       "type": 3,
-      "api": "csp_Fangniu4k",
-      "searchable": 1,
-      "changeable": 0,
-      "jar":"./jar/fangniu.jar"},
+      "api": "csp_Wobg",
+         "jar": "https://agit.ai/leevi/PiG/raw/branch/master/pg.jar",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 60,
+      "ext": "./lib/tokenm.json$$$https://wobge.run.goorm.io$$$null$$$1$$$https://agit.ai/leevi/PiG/raw/branch/master/lib/wogg.json"
+    },
       {"key":"Xpanpan","name":"小盘盘|网盘","type":3,"api":"csp_Xpanpan",  "jar": "./jar/pg.jar","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://xpanpan.site$$$null$$$1"},
 {
       "key": "csp_xpath_yinfans",
