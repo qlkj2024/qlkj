@@ -162,9 +162,9 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "./lib/tokenm.json$$$https://wobge.run.goorm.io$$$null$$$1$$$https://agit.ai/leevi/PiG/raw/branch/master/lib/wogg.json"
+      "ext": "./lib/tokenm.json$$$https://wobge.run.goorm.io$$$null$$$1$$$./json/wogg.json"
     },
-      {"key":"Xpanpan","name":"小盘盘|网盘","type":3,"api":"csp_Xpanpan",  "jar": "./jar/pg.jar","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://xpanpan.site$$$null$$$1"},
+      {"key":"Xpanpan","name":"小盘盘|网盘","type":3,"api":"csp_Xpanpan",  "jar": "https://agit.ai/leevi/PiG/raw/branch/master/pg.jar","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://xpanpan.site$$$null$$$1"},
 {
       "key": "csp_xpath_yinfans",
       "name": "音范丝💥蓝光4K",
