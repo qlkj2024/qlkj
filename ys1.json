@@ -936,7 +936,14 @@
       },
       "ext": "ttps://agit.ai/fantaiying/fty/raw/branch/master/ext/310直播.js"
     },
-
+  {
+      "key": "樱花动漫",
+      "name": "🌸┃樱花┃动漫",
+      "type": 3,
+      "playerType": "2",
+      "api": "csp_Ying",
+        "jar": "http://happy.xn--z7x900a.live/jar/PandaQ240318.jar;md5;5b59d2999497d6e0c1eb256bcd77f2c7",
+    },
 {
       "key": "NT动漫",
       "name": "NT🎀动漫",
