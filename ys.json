@@ -246,6 +246,28 @@
       },
       "timeout": 25
     },
+    {
+      "key": "贱贱",
+      "name": "🐭贱贱┃p2p",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "playerType": "1",
+      "api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
+      "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/jp.js"
+    },
+     {
+      "key": "酷看",
+      "name": "💡酷看┃秒播",
+      "type": 3,
+      "api": "csp_Kkys",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1710756082799/fan.txt;md5;dd909349c70fe92e82470eba611b7094",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
 {
       "key": "csp_Czzy",
       "name": "厂长🏭蓝光",
@@ -493,28 +515,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./json/kaixinys.json"
-    },
-{
-      "key": "贱贱",
-      "name": "🐭贱贱┃p2p",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "playerType": "1",
-      "api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
-      "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/jp.js"
-    },
-     {
-      "key": "酷看",
-      "name": "💡酷看┃秒播",
-      "type": 3,
-      "api": "csp_Kkys",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1710756082799/fan.txt;md5;dd909349c70fe92e82470eba611b7094",
-      "timeout": 15,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
     },
      {
             "key": "赞赞",
@@ -1128,22 +1128,11 @@
       "filterable": 1,
       "ext":"http://rihou.vip:55/lib/Bili短剧.json"
       },
- {
-      "key": "alist",
-      "name": "🍰┃小鸭┃网盘",
-      "type": 3,
-      "api": "csp_AList",
-        "jar": "http://happy.xn--z7x900a.live/jar/PandaQ240309.jar;md5;cddfd3426da27e89c7195ea79637028a",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://alist.xn--z7x900a.live/alist.json"
-    },
      
 
 {"key":"ext_live_protocol","name":"免费接口，自娱制作","type":3,"api":"csp_DuoX","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"cc","name":"请勿相信视频中任何广告","type":3,"api":"csp_XPath","searchable": 0,"quickSearch": 0},
-{"key":"hl","name":"03.12接口仅测试学习使用","type":3,"api":"csp_XPath","searchable": 0,"quickSearch": 0}
+{"key":"hl","name":"03.20接口仅测试学习使用","type":3,"api":"csp_XPath","searchable": 0,"quickSearch": 0}
 ],
 
 
