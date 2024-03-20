@@ -683,17 +683,6 @@
     },
 
 {
-      "key": "短视频",
-      "name": "网红📱美女",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "./js/duanshiping.js"
-    },
-
-{
       "key": "演唱会",
       "name": "音乐🎻鉴赏",
       "type": 3,
@@ -725,17 +714,6 @@
       "filterable": 1
     },
 
-{
-      "key": "子子影视",
-      "name": "子子🐰蓝光",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/zizi.json"
-    },   
 
 {
       "key": "河马",
@@ -774,27 +752,6 @@
       "changeable": 1,
       "ext": "./json/subaibai.json"
     },
-
-{
-      "key": "低端影视",
-      "name": "低端⛄影视",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "./js/diduan.js"
-    },
-
-{
-      "key": "Auete影视",
-      "name": "奥特🏝影视",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "./js/Auete.js"
-    },
-
 {
       "key": "csp_CandyMuj_cokemv",
       "name": "coke🍷影视",
@@ -868,17 +825,6 @@
     "quickSearch":1,
     "filterable":0,
     "ext":"./json/duojuys.json"
-    },
-
-{
-      "key": "厂长",
-      "name": "厂长🏭超清",
-      "type": 3,
-      "api": "./js/drpy.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "./js/cangzan.js"
     },
 
 
@@ -989,16 +935,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-{
-      "key": "meowtv_a8yy",
-      "name": "A8Y🎻音乐",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./js/a8yinyue.js"
     },
 {
       "key": "虎牙直播js",
