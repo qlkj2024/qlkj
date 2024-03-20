@@ -331,16 +331,6 @@
       "playerType": "2",
       "ext": "https://www.voflix.me/"
     },
-    {
-         "key":"kyB",
-         "name":"快鹰|采集",
-         "style":{"type":"rect","ratio":0.85},
-         "type":1,
-         "api":"http://savviuux.hk3.345888.xyz.cdn.cloudflare.net/api.php/provide/vod/?ac=list",
-         "searchable":1,
-         "quickSearch":1,
-         "playUrl":"json:https://stray.serv00.net/ky.php?url="
-     },
 {
       "key": "快云资源",
       "name": "快云🦚蓝光",
