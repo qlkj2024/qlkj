@@ -911,11 +911,23 @@
       "ext": "http://itvbox.cc/tvbox/云星日记/sh/js/直播.txt"
     },
 {
+      "key": " 在线┃直播1",
+      "name": "📺┃竞技┃直播",
+      "type": 3,
+      "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
+      "ext": "http://dt.xn--yety82d.love/js/JustLive.js",
+      "gridview": "0-0-H",
+      "style": {
+        "type": "rect",
+        "ratio": 1.68
+      }
+    },
+    {
       "key": "看球",
-      "name": "看球⚾直播",
+      "name": "⚾┃看球┃直播",
       "type": 3,
       "api": "csp_Kanqiu",
-      "jar": "http://like.xn--z7x900a.live:66/jar/PandaQ240208.jar;md5;888A64F65AAB54892980DED5C6DA9A6E",
+        "jar": "./jar/PandaQ240318.jar",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
@@ -925,16 +937,16 @@
       }
     },
     {
-      "key": "310js",
-      "name": "体育🏀直播",
+      "key": "drpy_js_310直播",
+      "name": "🏀┃体育┃直播",
       "type": 3,
-      "api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
+      "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
       "changeable": 0,
       "gridview": 3,
       "style": {
         "type": "list"
       },
-      "ext": "ttps://agit.ai/fantaiying/fty/raw/branch/master/ext/310直播.js"
+      "ext": "http://dt.xn--yety82d.love/js/310直播.js"
     },
   {
       "key": "樱花动漫",
@@ -973,6 +985,7 @@
       "name": "🍚┃稀饭┃动漫",
       "type": 3,
       "api": "csp_Xifan",
+      "jar": "./jar/PandaQ240318.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
