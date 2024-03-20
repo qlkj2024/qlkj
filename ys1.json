@@ -316,11 +316,18 @@
       "changeable": 1
     },
        {
+      "key": "csp_SP360",
+      "name": "📺┃360┃官源",
+      "type": 3,
+      "api": "csp_SP360",
+       "jar": "./jar/PandaQ240318.jar"
+    },
+       {
       "key": "csp_Voflix",
       "name": " 🎋┃Voflix┃影视",
       "type": 3,
       "api": "csp_Voflix",
-       "jar": "http://happy.xn--z7x900a.live/jar/PandaQ240318.jar;md5;5b59d2999497d6e0c1eb256bcd77f2c7r",
+         "jar": "./jar/PandaQ240318.jar",
       "playerType": "2",
       "ext": "https://www.voflix.me/"
     },
