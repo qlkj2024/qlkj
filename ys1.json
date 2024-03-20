@@ -942,32 +942,41 @@
       "type": 3,
       "playerType": "2",
       "api": "csp_Ying",
-        "jar": "http://happy.xn--z7x900a.live/jar/PandaQ240318.jar;md5;5b59d2999497d6e0c1eb256bcd77f2c7"
+        "jar": "./jar/PandaQ240318.jar"
     },
 {
-      "key": "NT动漫",
-      "name": "NT🎀动漫",
+      "key": "csp_Dm84",
+      "name": "🤣┃动漫┃巴士",
       "type": 3,
-      "api": "./js/drpy2.min.js",
+      "playerType": "2",
+      "api": "csp_Dm84",
+       "jar": "./jar/PandaQ240318.jar"
+    },
+    {
+      "key": "csp_Anime1",
+      "name": "🐶┃日本┃动漫",
+      "type": 3,
+      "playerType": "2",
+      "api": "csp_Anime1",
+       "jar": "./jar/PandaQ240318.jar"
+    },
+    {
+      "key": "csp_Ysj",
+      "name": "📺┃異界┃动漫",
+      "type": 3,
+      "playerType": "2",
+      "api": "csp_Ysj",
+       "jar": "./jar/PandaQ240318.jar"
+    },
+    {
+      "key": "csp_xifan",
+      "name": "🍚┃稀饭┃动漫",
+      "type": 3,
+      "api": "csp_Xifan",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": "https://pan.shangui.cc/f/5dRbSA/ntdm.js"
+      "filterable": 1
     },
-
-{
-      "key": "drpy_js_路漫漫",
-      "name": "路漫漫🚌动漫",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": "./js/lumanman.js"
-    },
-
 {
       "key": "meowtv_a8yy",
       "name": "A8Y🎻音乐",
