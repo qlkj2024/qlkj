@@ -517,7 +517,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "api": "csp_XBPQ",
-             "playUrl":"json:https://www.baipiao-ys.cc/player/?url=",
             "ext": {
                 "主页url": "http://www.baipiaoys.cc/",
                 "副标题": "pic-text text-right\">&&</b>",
@@ -1120,7 +1119,8 @@
 {"name": "嗅探二","type": 0,"url": "https://jx.jsonplayer.com/player/?url="},
 {"name": "嗅探三","type": 0,"url": "https://jx.bozrc.com:4433/player/?url="},
 {"name": "嗅探四","type": 0,"url": "https://jx.777jiexi.com/player/?url="},
-{"name": "嗅探五","type": 0,"url": "https://jx.xmflv.com/?url="} 
+{"name": "嗅探五","type": 0,"url": "https://jx.xmflv.com/?url="} ,
+{"name": "嗅探六","type": 0,"url": "https://www.baipiao-ys.cc/player/?url="} 
 ],
 "doh": [
     {
