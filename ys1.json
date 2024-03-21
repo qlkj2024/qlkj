@@ -323,6 +323,26 @@
        "jar": "./jar/PandaQ240318.jar"
     },
        {
+      "key": "原创",
+      "name": "☀原创┃无广",
+      "type": 3,
+      "api": "csp_YCyz",
+        "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1710756082799/fan.txt;md5;dd909349c70fe92e82470eba611b7094",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+        {
+      "key": "csp_AppRZ",
+      "name": " 🕵┃忍者┃影视",
+      "type": 3,
+      "playerType": "2",
+      "api": "csp_AppRZ",
+          "jar": "./jar/PandaQ240318.jar",
+      "ext": "http://rzys.xyz/"
+    },
+       {
       "key": "csp_Voflix",
       "name": " 🎋┃Voflix┃影视",
       "type": 3,
