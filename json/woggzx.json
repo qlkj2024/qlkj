@@ -56,7 +56,7 @@
     "年代详情": "",
     "地区详情": "",
     "演员详情": ".video-info-main&&.video-info-actor,1&&Text",
-    "简介详情": ".sqjj_a&&Text",
+   "简介详情": "'关注公众号“奇乐技术网”，获取最新接口，加qq群879053033防迷失！【奇乐科技】提醒您以下为简介：'+.sqjj_a&&Text",
     "线路列表数组规则": ".module-tab-content&&.selected",
     "线路标题": "span&&Texe",
     "播放列表数组规则": ".module-row-one",
