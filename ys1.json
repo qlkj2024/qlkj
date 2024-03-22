@@ -93,17 +93,45 @@
       "filterable": 1,
       "ext": "./json/kaixin.json"
     },
-
 {
-      "key": "csp_XYQHikerAL_影视车弟弟",
-      "name": "影视车🚛臻享4K",
+      "key": "地瓜臻享4K",
+      "name": "地瓜🍠臻享4K",
       "type": 3,
-      "api": "csp_XYQHikerAL",
-      "jar": "./jar/xyqwogg.jar",
+      "api": "csp_AppYsV2",
+      "jar": "./jar/fty.txt",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/yingshiche.json"
+      "changeable": 0,
+      "ext": "https://www.qiqiguai.cn/api.php/app/"
+    },
+    {
+      "key": "团长资源",
+      "name": "团长🍡蓝光4K",
+      "type": 3,
+      "api": "csp_TZFile",
+      "jar": "./jar/PG.jar",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 60,
+      "ext": "./json/PG推送.json$$$null$$$1"
+    },
+{
+      "key": "玩我网盘",
+      "name": "玩我🚛网盘4K",
+      "type": 3,
+      "api": "csp_Wobg",
+      "jar": "./jar/okjpg.txt",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": {
+        "token": "file://TV/ali_token.txt",
+        "cookie": "file://TV/quark_cookie.txt",
+        "site": "http://www.ttkx.live:3328"
+      },
+      "timeout": 25
     },
 
 {
@@ -139,19 +167,17 @@
       "filterable": 1,
       "ext": "./json/tudou.json"
     },
-
 {
-      "key":"Hdhive",
-      "name":"影巢🚜臻享4K",
-      "type":3,
-      "api":"csp_Hdhive",
-      "jar": "./jar/pg2.jar",
-      "quickSearch":1,
-      "changeable":1,
-      "filterable":1, 
-      "timeout":30, 
-      "ext":"./json/PG推送.json$$$null$$$1"
-},
+      "key": "csp_XYQHikerAL_玩偶哥哥",
+      "name": "玩偶🍺臻享4K",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/woggzx.json"
+    },
+
 {
       "key": "Ppxzy",
       "name": "皮皮虾|网盘",
