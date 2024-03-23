@@ -14,8 +14,8 @@
                 },
 
 
-{"key":"ext_live_protocol","name":"奇乐科技┃加qq群879053033防迷失，获取最新接口，本接口地址已停止使用！","type":3,"api":"csp_DuoX","searchable":1,"quickSearch":1,"changeable":1},
-{"key":"cc","name":"加qq群879053033防迷失，获取最新接口，本接口已作废！","type":3,"api":"csp_XPath","searchable": 0,"quickSearch": 0},
+{"key":"ext_live_protocol","name":"奇乐科技┃加qq群879053033防迷失","type":3,"api":"csp_DuoX","searchable":1,"quickSearch":1,"changeable":1},
+{"key":"cc","name":"获取最新接口，本接口已作废！","type":3,"api":"csp_XPath","searchable": 0,"quickSearch": 0},
 {"key":"hl","name":"加微信公众号“奇乐技术网”，回复“接口”可获取最新接口","type":3,"api":"csp_XPath","searchable": 0,"quickSearch": 0}
 ]
 }
