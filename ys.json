@@ -73,6 +73,19 @@
 			"changeable": 0,
 			"ext":"./lib/tokenm.json"
 		},
+        {
+      "key": "配置中心",
+      "name": "🪪阿里夸克-配置中心",
+      "type": 3,
+      "api": "csp_Config",
+        "jar": "./jar/qing.jar",
+      "searchable": 0,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.43
+      }
+    },
 {
       "key": "csp_XYQHikerAL_玩偶哥哥",
       "name": "玩偶⚗️臻享4K",
