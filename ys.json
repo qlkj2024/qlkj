@@ -1071,7 +1071,22 @@
       "filterable": 1,
       "ext":"http://rihou.vip:55/lib/Bili短剧.json"
       },
-     
+         {
+      "key": "push_agent",
+      "name": "推送",
+      "type": 3,
+      "api": "csp_Push",
+       "jar": "./jar/qing.jar",
+      "searchable": 0,
+      "filterable": 0,
+      "changeable": 0,
+      "ext": {
+        "token": "file://TV/ali_token.txt",
+        "cookie": "file://TV/quark_cookie.txt",
+        "danmu": true
+      },
+      "timeout": 15
+    },
 
 {"key":"ext_live_protocol","name":"免费接口，请勿购买","type":3,"api":"csp_DuoX","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"cc","name":"请勿相信视频中任何广告","type":3,"api":"csp_XPath","searchable": 0,"quickSearch": 0},
