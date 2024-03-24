@@ -188,17 +188,21 @@
       "timeout": 60,
       "ext": "./lib/tokenm.json$$$https://www.meijumi.xyz/$$$null$$$1"
     },
-{
-      "key": "Wobg",
-      "name": "玩偶表哥|网盘",
+ {
+      "key": "玩偶表哥弹幕",
+      "name": "🙀碎月-4K",
       "type": 3,
       "api": "csp_Wobg",
-         "jar": "./jar/pg.jar",
+          "jar": "https://atomgit.com/smdy/top-level/raw/master/jar/qing.jar",
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
-      "timeout": 60,
-      "ext": "./lib/tokenm.json$$$https://wobge.run.goorm.io$$$null$$$1$$$./json/wogg.json"
+      "ext": {
+        "token": "file://TV/ali_token.txt",
+        "cookie": "file://TV/quark_cookie.txt",
+        "danmu": true
+      },
+      "timeout": 25
     },
       {"key":"Xpanpan","name":"小盘盘|网盘","type":3,"api":"csp_Xpanpan",  "jar": "https://agit.ai/leevi/PiG/raw/branch/master/pg.jar","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://xpanpan.site$$$null$$$1"},
 {
