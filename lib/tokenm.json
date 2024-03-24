@@ -1,7 +1,7 @@
 {
 "use_internal_storage":false,
-"token":"http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto",
-"open_token":"http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto",
+"token":"01b31bff50b34c5c82552a9293d5c4c1",
+"open_token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiI0MGJkZTY4M2I4OWU0ZTNjYWQ5OWNmOWI1ODQwYzE0MCIsImF1ZCI6Ijc2OTE3Y2NjY2Q0NDQxYzM5NDU3YTA0ZjYwODRmYjJmIiwiZXhwIjoxNzE3NDgzNDM4LCJpYXQiOjE3MDk3MDc0MzgsImp0aSI6IjA4MDZhZjAwMDExMTRkODViOGVlOTQ3MGFhMjI2ZTc4In0.PIoNlH9hGekyaEylMME27VPEDHNOjVcASVaDnJpV1hO_uCgOzXUQyoaempXPGUYtNO4a_ik7BYpqkxJsuiQYMg",
 "open_api_url":"get|https://adrive.xdow.net/oauth/access_token",
 "oauth_client_id":"",
 "oauth_client_secret":"",
