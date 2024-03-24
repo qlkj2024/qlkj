@@ -127,19 +127,19 @@
       "timeout": 60,
       "ext": "./json/PG推送.json$$$null$$$1"
     },
-     {
-      "key": "玩偶表哥弹幕",
-      "name": "玩我🙀臻享4K",
+ {
+      "key": "玩我网盘",
+      "name": "玩我🚛网盘4K",
       "type": 3,
       "api": "csp_Wobg",
-       "jar": "https://atomgit.com/smdy/top-level/raw/master/jar/qing.jar",
+      "jar": "https://atomgit.com/smdy/top-level/raw/master/jar/qing.jar",
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
       "ext": {
         "token": "file://TV/ali_token.txt",
         "cookie": "file://TV/quark_cookie.txt",
-        "danmu": true
+        "site": "http://www.ttkx.live:3328"
       },
       "timeout": 25
     },
