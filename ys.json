@@ -4,7 +4,7 @@
 "sites":[
 {
       "key": "豆瓣",  
-      "name": "公众号:奇乐技术网┃加qq群879053033防迷路！",
+      "name": "公众号:奇乐技术网┃加qq群291807877防迷路！",
       "type": 3,
       "api": "csp_DouDou",
       "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1710756082799/fan.txt;md5;dd909349c70fe92e82470eba611b7094",
@@ -93,17 +93,7 @@
       "filterable": 1,
       "ext": "./json/kaixin.json"
     },
-    {
-      "key": "csp_XYQHikerAL_玩偶哥哥",
-      "name": "玩偶🍺臻享4K",
-      "type": 3,
-      "api": "csp_XYQHikerAL",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/woggzx.json"
-    },
-    {
+{
       "key": "地瓜臻享4K",
       "name": "地瓜🍠臻享4K",
       "type": 3,
@@ -115,7 +105,7 @@
       "changeable": 0,
       "ext": "https://www.qiqiguai.cn/api.php/app/"
     },
-{
+    {
       "key": "团长资源",
       "name": "团长🍡蓝光4K",
       "type": 3,
@@ -127,7 +117,7 @@
       "timeout": 60,
       "ext": "./json/PG推送.json$$$null$$$1"
     },
- {
+{
       "key": "玩我网盘",
       "name": "玩我🚛网盘4K",
       "type": 3,
@@ -143,6 +133,7 @@
       },
       "timeout": 25
     },
+
 {
       "key": "csp_XYQHikerAL_阿里苏苏",
       "name": "苏苏🛰️臻享4K",
@@ -154,6 +145,7 @@
       "filterable": 1,
       "ext": "./json/alisusu.json"
     },
+
    {
       "key": "玩偶哥哥",
       "name": "玩偶⛅弹幕4K",
@@ -175,17 +167,62 @@
       "filterable": 1,
       "ext": "./json/tudou.json"
     },
-      {"key":"Xpanpan","name":"小盘盘|网盘","type":3,"api":"csp_Xpanpan",  "jar": "https://agit.ai/leevi/PiG/raw/branch/master/pg.jar","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://xpanpan.site$$$null$$$1"},
+{
+      "key": "csp_XYQHikerAL_玩偶哥哥",
+      "name": "玩偶🍺臻享4K",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/woggzx.json"
+    },
+{
+      "key": "Ppxzy",
+      "name": "皮皮虾|网盘",
+      "type": 3,
+      "api": "csp_Ppxzy",
+           "jar": "./jar/pg.jar",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 60,
+      "ext": "./lib/tokenm.json$$$https://ppxzy.net$$$null$$$1"
+    },
+      {
+      "key": "校长影视",
+      "name": "校长影视|网盘",
+      "type": 3,
+      "api": "csp_XiaoZhang",
+         "jar": "./jar/pg.jar",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 60,
+      "ext": "./lib/tokenm.json$$$https://xzyshd.com$$$null$$$1"
+    },
+      {
+      "key": "美剧迷",
+      "name": "美剧迷|网盘",
+      "type": 3,
+      "api": "csp_Meijumi",
+      "jar": "./jar/pg.jar",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 60,
+      "ext": "./lib/tokenm.json$$$https://www.meijumi.xyz/$$$null$$$1"
+    },
 {
       "key": "csp_xpath_yinfans",
       "name": "音范丝💥蓝光4K",
       "type": 3,
       "api": "csp_XPath",
-      "jar": "./jar/pg.jar",
+      "jar": "./jar/999.png",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/音范丝.json"
+      "ext": "./json/infans.json"
     },
     {
       "key": "土豆网盘弹幕",
@@ -204,20 +241,6 @@
       },
       "timeout": 25
     },
-     {
-      "key": "玩偶表哥弹幕",
-      "name": "🙀碎月-4K",
-      "type": 3,
-      "api": "csp_Wobg",
-          "jar": "https://atomgit.com/smdy/top-level/raw/master/jar/qing.jar",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "ext": {
-        "token": "file://TV/ali_token.txt",
-        "cookie": "file://TV/quark_cookie.txt",
-        "danmu": true
-      },
     {
       "key": "贱贱",
       "name": "🐭贱贱┃p2p",
@@ -229,35 +252,16 @@
       "api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
       "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/jp.js"
     },
-    {
-      "key": "酷看弹幕版",
-      "name": "😎酷看┃弹幕",
+     {
+      "key": "酷看",
+      "name": "💡酷看┃秒播",
       "type": 3,
       "api": "csp_Kkys",
-      "jar": "https://jihulab.com/okcaptain/kko/-/raw/main/okpng.txt;md5;13ae0be098a3d1615624d1c6924ae8d5",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1710756082799/fan.txt;md5;dd909349c70fe92e82470eba611b7094",
+      "timeout": 15,
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "danmu": true
-      },
-      "timeout": 20
-    },
-      {
-      "key": "csp_SP360",
-      "name": "📺┃360┃官源",
-      "type": 3,
-      "api": "csp_SP360",
-       "jar": "./jar/PandaQ240318.jar"
-    },
-       {
-      "key": "csp_Voflix",
-      "name": " 🎋┃Voflix┃影视",
-      "type": 3,
-      "api": "csp_Voflix",
-         "jar": "./jar/PandaQ240318.jar",
-      "playerType": "2",
-      "ext": "https://www.voflix.me/"
+      "changeable": 1
     },
 {
       "key": "csp_Czzy",
@@ -318,6 +322,22 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
+    },
+       {
+      "key": "csp_SP360",
+      "name": "📺┃360┃官源",
+      "type": 3,
+      "api": "csp_SP360",
+       "jar": "./jar/PandaQ240318.jar"
+    },
+       {
+      "key": "csp_Voflix",
+      "name": " 🎋┃Voflix┃影视",
+      "type": 3,
+      "api": "csp_Voflix",
+         "jar": "./jar/PandaQ240318.jar",
+      "playerType": "2",
+      "ext": "https://www.voflix.me/"
     },
 {
       "key": "快云资源",
@@ -496,6 +516,30 @@
         "其他片"
         ]
     },
+        {
+            "key": "baipiaoys",
+            "name": "白嫖┃影视",
+            "type": 3,
+            "changeable": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "api": "csp_XBPQ",
+            "ext": {
+                "主页url": "http://www.baipiaoys.cc/",
+                "副标题": "pic-text text-right\">&&</b>",
+                "搜索模式": "1",
+                "搜索url": "https://www.baipiaoys.cc/search.html?wd={wd}",
+                "图片": "data-original=\"&&\"",
+                "嗅探词": ".mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
+                "影片类型": "<div class=\"module-info-tag\">&&立即播放",
+                "导演": "导演：&&</div>",
+                "主演": "主演：&&</div>",
+                "分类": "电影$1#电视剧$2#动漫$3#短剧$4#综艺$5",
+                "分类url": "http://www.baipiaoys.cc/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/lang/{lang}/letter/{letter}/year/{year}.html"
+            },
+            "jar": "https://123.155123.xyz/南风.jar"
+        },
 
 {     "key": "开心影视",
       "name": "开心😄蓝光",
@@ -523,7 +567,7 @@
 			"name": "🎃|南瓜|弹幕",
 			"type": 3,
 			"api": "csp_NanGua",
-             "jar": "https://agit.ai/leevi/PiG/raw/branch/master/pg.jar",
+             "jar": "./jar/pg.jar",
 			"searchable": 1,
 			"changeable": 1,
 			"ext": "null$$$1"
@@ -651,6 +695,15 @@
     },
 
 {
+      "key": "演唱会",
+      "name": "音乐🎻鉴赏",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "ext": "./json/yinyue.json"
+    },        
+{
       "key": "meowtv_Libo",
       "name": "利播🌕韩剧",
       "type": 3,
@@ -672,7 +725,6 @@
       "quickSearch": 1,
       "filterable": 1
     },
-
 {
       "key": "素白白影视",
       "name": "素白🛰️蓝光",
@@ -756,6 +808,8 @@
     "filterable":0,
     "ext":"./json/duojuys.json"
     },
+
+
 {
       "key": "COKEMV影院",
       "name": "可乐🥤观影",
@@ -777,7 +831,7 @@
       "filterable": 1,
       "ext": "./json/panghuys.json"
     },
-{
+    {
 			"key": "Bdys_spider",
 			"name": "🧲哔滴┃磁力",
 			"api": "csp_Bdys01",
@@ -837,7 +891,7 @@
         "type": "list"
       }
     },
-      {
+    {
       "key": "drpy_js_310直播",
       "name": "🏀┃体育┃直播",
       "type": 3,
@@ -849,8 +903,7 @@
       },
       "ext": "http://dt.xn--yety82d.love/js/310直播.js"
     },
-
-   {
+  {
       "key": "樱花动漫",
       "name": "🌸┃樱花┃动漫",
       "type": 3,
@@ -925,7 +978,7 @@
       "name": "🚑急救┃教学",
       "type": 3,
       "api": "csp_FirstAid",
-           "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1708249660012/fan.txt",
+           "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1710756082799/fan.txt;md5;dd909349c70fe92e82470eba611b7094",
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
@@ -1046,9 +1099,9 @@
       },
      
 
-{"key":"ext_live_protocol","name":"免费接口，请勿购买","type":3,"api":"csp_DuoX","searchable":1,"quickSearch":1,"changeable":1},
+{"key":"ext_live_protocol","name":"免费接口，自娱制作","type":3,"api":"csp_DuoX","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"cc","name":"请勿相信视频中任何广告","type":3,"api":"csp_XPath","searchable": 0,"quickSearch": 0},
-{"key":"hl","name":"接口仅测试学习使用","type":3,"api":"csp_XPath","searchable": 0,"quickSearch": 0}
+{"key":"hl","name":"03.20接口仅测试学习使用","type":3,"api":"csp_XPath","searchable": 0,"quickSearch": 0}
 ],
 
 
@@ -1074,7 +1127,8 @@
 {"name": "嗅探二","type": 0,"url": "https://jx.jsonplayer.com/player/?url="},
 {"name": "嗅探三","type": 0,"url": "https://jx.bozrc.com:4433/player/?url="},
 {"name": "嗅探四","type": 0,"url": "https://jx.777jiexi.com/player/?url="},
-{"name": "嗅探五","type": 0,"url": "https://jx.xmflv.com/?url="} 
+{"name": "嗅探五","type": 0,"url": "https://jx.xmflv.com/?url="} ,
+{"name": "嗅探六","type": 0,"url": "https://www.baipiao-ys.cc/player/?url="} 
 ],
 "doh": [
     {
