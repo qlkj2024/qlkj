@@ -4,7 +4,7 @@
 "sites":[
 {
       "key": "豆瓣",  
-      "name": "公众号：奇乐技术网┃加qq群879053033防迷路！",
+      "name": "公众号:奇乐技术网┃加qq群879053033防迷路！",
       "type": 3,
       "api": "csp_DouDou",
       "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1710756082799/fan.txt;md5;dd909349c70fe92e82470eba611b7094",
@@ -132,7 +132,7 @@
       "name": "玩我🚛网盘4K",
       "type": 3,
       "api": "csp_Wobg",
-      "jar": "./jar/okjpg.txt",
+      "jar": "https://atomgit.com/smdy/top-level/raw/master/jar/qing.jar",
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
@@ -215,46 +215,22 @@
       "ext": "./lib/tokenm.json$$$https://www.meijumi.xyz/$$$null$$$1"
     },
 {
-      "key": "Wobg",
-      "name": "玩偶表哥|网盘",
+      "key": "玩偶表哥弹幕",
+      "name": "玩偶表哥🙀4K",
       "type": 3,
       "api": "csp_Wobg",
-         "jar": "https://agit.ai/leevi/PiG/raw/branch/master/pg.jar",
+  "jar": "https://atomgit.com/smdy/top-level/raw/master/jar/qing.jar",
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
-      "timeout": 60,
-      "ext": "./lib/tokenm.json$$$https://wobge.run.goorm.io$$$null$$$1$$$./json/wogg.json"
-    },
-      {"key":"Xpanpan","name":"小盘盘|网盘","type":3,"api":"csp_Xpanpan",  "jar": "https://agit.ai/leevi/PiG/raw/branch/master/pg.jar","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://xpanpan.site$$$null$$$1"},
-{
-      "key": "csp_xpath_yinfans",
-      "name": "音范丝💥蓝光4K",
-      "type": 3,
-      "api": "csp_XPath",
-      "jar": "./jar/999.png",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/infans.json"
-    },
-	   {
-      "key": "运输车弹幕版",
-      "name": "😺似锦4K｜弹幕",
-      "type": 3,
-      "api": "csp_Wogg",
-      "jar": "https://atomgit.com/smdy/top-level/raw/master/jar/myok.jar",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 1,
       "ext": {
         "token": "file://TV/ali_token.txt",
         "cookie": "file://TV/quark_cookie.txt",
-        "site": "https://www.weixine.link",
         "danmu": true
       },
       "timeout": 25
     },
+      {"key":"Xpanpan","name":"小盘盘|网盘","type":3,"api":"csp_Xpanpan",  "jar": "https://agit.ai/leevi/PiG/raw/branch/master/pg.jar","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://xpanpan.site$$$null$$$1"},
     {
       "key": "土豆网盘弹幕",
       "name": "😺土豆4K｜弹幕",
