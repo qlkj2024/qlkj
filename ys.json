@@ -4,7 +4,7 @@
 "sites":[
 {
       "key": "豆瓣",  
-      "name": "公众号：奇乐技术网┃加qq群879053033防迷路！",
+      "name": "公众号:奇乐技术网┃加qq群879053033防迷路！",
       "type": 3,
       "api": "csp_DouDou",
       "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1710756082799/fan.txt;md5;dd909349c70fe92e82470eba611b7094",
@@ -232,11 +232,11 @@
       "name": "音范丝💥蓝光4K",
       "type": 3,
       "api": "csp_XPath",
-      "jar": "./jar/999.png",
+      "jar": "./jar/pg.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/infans.json"
+      "ext": "./json/音范丝.json"
     },
 	   {
       "key": "运输车弹幕版",
