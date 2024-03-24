@@ -127,22 +127,6 @@
       "timeout": 60,
       "ext": "./json/PG推送.json$$$null$$$1"
     },
-    {
-      "key": "我哥哥弹幕",
-      "name": "😹开心-4K",
-      "type": 3,
-      "api": "csp_Wobg",
-        "jar": "https://atomgit.com/smdy/top-level/raw/master/jar/qing.jar",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "ext": {
-        "token": "file://TV/ali_token.txt",
-        "cookie": "file://TV/quark_cookie.txt",
-        "site": "http://www.ttkx.live:3328/",
-        "danmu": true
-      }
-      },
 {
       "key": "csp_XYQHikerAL_阿里苏苏",
       "name": "苏苏🛰️臻享4K",
