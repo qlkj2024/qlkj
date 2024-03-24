@@ -156,17 +156,16 @@
       "filterable": 1,
       "ext": "./json/alisusu.json"
     },
-
-   {
-      "key": "玩偶哥哥",
-      "name": "玩偶⛅弹幕4K",
+  {
+      "key": "玩偶",
+      "name": "👽玩偶哥哥┃4K弹幕",
       "type": 3,
       "api": "csp_WoGG",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1710756082799/fan.txt;md5;dd909349c70fe92e82470eba611b7094",
+           "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1711263158682/fan.txt;md5;6fcaf5603964547fd0e414312eb5cd92",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://wwww.wogg.xyz/$$$弹"
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
     },
 {
       "key": "csp_XYQHikerAL_土豆",
