@@ -141,6 +141,7 @@
         "cookie": "file://TV/quark_cookie.txt",
         "site": "http://www.ttkx.live:3328/",
         "danmu": true
+      }
       },
 {
       "key": "csp_XYQHikerAL_阿里苏苏",
@@ -153,7 +154,6 @@
       "filterable": 1,
       "ext": "./json/alisusu.json"
     },
-
    {
       "key": "玩偶哥哥",
       "name": "玩偶⛅弹幕4K",
