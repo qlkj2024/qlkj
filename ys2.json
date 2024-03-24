@@ -215,7 +215,7 @@
     },
     {
       "key": "土豆网盘弹幕",
-      "name": "😺土豆4K｜弹幕",
+      "name": "土豆4K😺弹幕",
       "type": 3,
       "api": "csp_Wobg",
       "jar": "https://atomgit.com/smdy/top-level/raw/master/jar/myok.jar",
@@ -248,7 +248,7 @@
     },
     {
       "key": "贱贱",
-      "name": "🐭贱贱┃p2p",
+      "name": "贱贱🐭p2p",
       "type": 3,
       "searchable": 1,
       "quickSearch": 1,
@@ -259,7 +259,7 @@
     },
      {
       "key": "酷看",
-      "name": "💡酷看┃秒播",
+      "name": "酷看💡秒播",
       "type": 3,
       "api": "csp_Kkys",
       "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1710756082799/fan.txt;md5;dd909349c70fe92e82470eba611b7094",
@@ -320,7 +320,7 @@
     },
   {
       "key": "一起看 ",
-      "name": "🎉一起┃App",
+      "name": "一起🎉App",
       "type": 3,
       "api": "csp_YQKan",
         "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1710756082799/fan.txt;md5;dd909349c70fe92e82470eba611b7094",
@@ -330,14 +330,14 @@
     },
        {
       "key": "csp_SP360",
-      "name": "📺┃360┃官源",
+      "name": "360📺官源",
       "type": 3,
       "api": "csp_SP360",
        "jar": "./jar/PandaQ240318.jar"
     },
        {
       "key": "csp_Voflix",
-      "name": " 🎋┃Voflix┃影视",
+      "name": " Voflix🎋影视",
       "type": 3,
       "api": "csp_Voflix",
          "jar": "./jar/PandaQ240318.jar",
@@ -523,7 +523,7 @@
     },
         {
             "key": "baipiaoys",
-            "name": "白嫖┃影视",
+            "name": "白嫖🎋影视",
             "type": 3,
             "changeable": 1,
             "searchable": 1,
@@ -558,7 +558,7 @@
     },
      {
             "key": "赞赞",
-            "name": "➕1080P┃切片",
+            "name": "1080P➕切片",
             "type": 3,
             "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
             "api": "csp_AppYsV2",
@@ -569,7 +569,7 @@
         }, 
    {
 			"key": "NanGua",
-			"name": "🎃|南瓜|弹幕",
+			"name": "南瓜🎃弹幕",
 			"type": 3,
 			"api": "csp_NanGua",
              "jar": "./jar/pg.jar",
@@ -579,7 +579,7 @@
 		},
         {
             "key": "小胡",
-            "name": "🍈️┃小胡┃影视",
+            "name": "小胡🍈️影视",
             "type": 3,
             "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
             "ext": "http://dt.xn--yety82d.love/js/小胡.js",
