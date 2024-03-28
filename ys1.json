@@ -177,6 +177,7 @@
       "ext": "./json/woggzx.json"
     },
 {"key":"Xinshijue","name":"新视觉🥷网盘","type":3,"jar":"./jar/pg.jar","api":"csp_Xinshijue","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://www.80yy3.com/$$$proxy$$$1$$$./lib/wogg.json"},
+{"key":"玩你哥哥","name":"玩你哥哥|网盘","type":3,"api":"csp_Wobg","jar":"./jar/pg.jar","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://wobg.xyz/$$$null$$$1$$$./lib/wogg.json"},
 {
       "key": "Ppxzy",
       "name": "皮皮虾|网盘",
