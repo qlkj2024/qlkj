@@ -74,78 +74,6 @@
 			"ext":"./lib/tokenm.json"
 		},
 
-{
-      "key": "csp_XYQHikerAL_玩偶哥哥",
-      "name": "玩偶⚗️臻享4K",
-      "type": 3,
-      "api": "csp_XYQHikerAL",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/woggzx.json"
-    },
-{
-      "key": "一青叶我_开心玩偶",
-      "name": "开心🍹臻享4K",
-      "type": 3,
-      "api": "csp_XYQHikerAL",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/kaixin.json"
-    },
-    {
-      "key": "地瓜臻享4K",
-      "name": "地瓜🍠臻享4K",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "jar": "./jar/fty.txt",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": "https://www.qiqiguai.cn/api.php/app/"
-    },
-{
-      "key": "团长资源",
-      "name": "团长🍡蓝光4K",
-      "type": 3,
-      "api": "csp_TZFile",
-      "jar": "./jar/PG.jar",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 60,
-      "ext": "./json/PG推送.json$$$null$$$1"
-    },
-{
-      "key": "玩我网盘",
-      "name": "玩我🚛网盘4K",
-      "type": 3,
-      "api": "csp_Wobg",
-      "jar": "./jar/pg.jar",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "ext": {
-        "token": "file://TV/ali_token.txt",
-        "cookie": "file://TV/quark_cookie.txt",
-        "site": "http://www.ttkx.live:3328"
-      },
-      "timeout": 25
-    },
-
-{
-      "key": "csp_XYQHikerAL_阿里苏苏",
-      "name": "苏苏🛰️臻享4K",
-      "type": 3,
-      "api": "csp_XYQHikerAL",
-      "jar": "./jar/xyqwogg.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/alisusu.json"
-    },
 
    {
       "key": "玩偶哥哥",
@@ -159,6 +87,51 @@
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt---4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
     },
 {
+      "key": "一青叶我_开心玩偶",
+      "name": "开心🍹臻享4K",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/kaixin.json"
+    },
+{
+      "key": "地瓜臻享4K",
+      "name": "地瓜🍠臻享4K",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "jar": "./jar/fty.txt",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": "https://www.qiqiguai.cn/api.php/app/"
+    },
+    {
+      "key": "团长资源",
+      "name": "团长🍡蓝光4K",
+      "type": 3,
+      "api": "csp_TZFile",
+      "jar": "./jar/PG.jar",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 60,
+      "ext": "./json/PG推送.json$$$null$$$1"
+    },
+{
+      "key": "csp_XYQHikerAL_阿里苏苏",
+      "name": "苏苏🛰️臻享4K",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "jar": "./jar/xyqwogg.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/alisusu.json"
+    },
+{
       "key": "csp_XYQHikerAL_土豆",
       "name": "土豆🥔臻享4K",
       "type": 3,
@@ -167,6 +140,16 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./json/tudou.json"
+    },
+{
+      "key": "csp_XYQHikerAL_玩偶哥哥",
+      "name": "玩偶🍺臻享4K",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/woggzx.json"
     },
   {
       "key": "新视觉",
@@ -179,7 +162,7 @@
       "filterable": 1,
       "ext": "https://www.80yy3.com/"
     },
-    {
+{
       "key": "Ppxzy",
       "name": "皮皮虾|网盘",
       "type": 3,
@@ -196,7 +179,7 @@
       "name": "校长影视|网盘",
       "type": 3,
       "api": "csp_XiaoZhang",
-           "jar": "./jar/pg.jar",
+         "jar": "./jar/pg.jar",
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
@@ -208,46 +191,12 @@
       "name": "美剧迷|网盘",
       "type": 3,
       "api": "csp_Meijumi",
-        "jar": "./jar/pg.jar",
+      "jar": "./jar/pg.jar",
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
       "ext": "./lib/tokenm.json$$$https://www.meijumi.xyz/$$$null$$$1"
-    },
-{
-      "key": "玩偶表哥弹幕",
-      "name": "玩偶表哥🙀4K",
-      "type": 3,
-      "api": "csp_Wobg",
-      "jar": "./jar/qing.jar",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "ext": {
-        "token": "file://TV/ali_token.txt",
-        "cookie": "file://TV/quark_cookie.txt",
-        "danmu": true
-      },
-      "timeout": 25
-    },
-      {"key":"Xpanpan","name":"小盘盘|网盘","type":3,"api":"csp_Xpanpan",   "jar": "./jar/pg.jar","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://xpanpan.site$$$null$$$1"},
-    {
-      "key": "土豆网盘弹幕",
-      "name": "😺土豆4K｜弹幕",
-      "type": 3,
-      "api": "csp_Wobg",
-      "jar": "https://atomgit.com/smdy/top-level/raw/master/jar/myok.jar",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "ext": {
-        "token": "file://TV/ali_token.txt",
-        "cookie": "file://TV/quark_cookie.txt",
-        "site": "https://tudou.lvdoui.top",
-        "danmu": true
-      },
-      "timeout": 25
     },
     {
       "key": "贱贱",
