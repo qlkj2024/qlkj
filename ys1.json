@@ -160,12 +160,29 @@
       "filterable": 1,
       "ext": "./json/duoduo.json"
     },
+    {
+      "key": "玩我网盘",
+      "name": "玩我🚛网盘4K",
+      "type": 3,
+      "api": "csp_Wobg",
+      "jar": "./jar/ok.jar",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": {
+        "token": "file://TV/ali_token.txt",
+        "cookie": "file://TV/quark_cookie.txt",
+        "site": "http://www.ttkx.live:3328",
+        "danmu": true
+      },
+      "timeout": 25
+    },
   {
       "key": "新视觉",
       "name": "视觉🐦影视",
       "type": 3,
       "api": "csp_Xinsj",
-       "jar": "./jar/PandaQ240318.jar",
+       "jar": "./jar/PandaQ.jar",
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
@@ -294,7 +311,7 @@
       "name": "📺┃360┃官源",
       "type": 3,
       "api": "csp_SP360",
-       "jar": "./jar/PandaQ240318.jar"
+       "jar": "./jar/PandaQ.jar"
     },
        {
       "key": "原创",
@@ -307,21 +324,12 @@
       "quickSearch": 1,
       "changeable": 1
     },
-        {
-      "key": "csp_AppRZ",
-      "name": " 🕵┃忍者┃影视",
-      "type": 3,
-      "playerType": "2",
-      "api": "csp_AppRZ",
-          "jar": "./jar/PandaQ240318.jar",
-      "ext": "http://rzys.xyz/"
-    },
        {
       "key": "csp_Voflix",
       "name": " 🎋┃Voflix┃影视",
       "type": 3,
       "api": "csp_Voflix",
-         "jar": "./jar/PandaQ240318.jar",
+         "jar": "./jar/PandaQ.jar",
       "playerType": "2",
       "ext": "https://www.voflix.me/"
     },
@@ -502,30 +510,6 @@
         "其他片"
         ]
     },
-        {
-            "key": "baipiaoys",
-            "name": "白嫖┃影视",
-            "type": 3,
-            "changeable": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "api": "csp_XBPQ",
-            "ext": {
-                "主页url": "http://www.baipiaoys.cc/",
-                "副标题": "pic-text text-right\">&&</b>",
-                "搜索模式": "1",
-                "搜索url": "https://www.baipiaoys.cc/search.html?wd={wd}",
-                "图片": "data-original=\"&&\"",
-                "嗅探词": ".mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
-                "影片类型": "<div class=\"module-info-tag\">&&立即播放",
-                "导演": "导演：&&</div>",
-                "主演": "主演：&&</div>",
-                "分类": "电影$1#电视剧$2#动漫$3#短剧$4#综艺$5",
-                "分类url": "http://www.baipiaoys.cc/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/lang/{lang}/letter/{letter}/year/{year}.html"
-            },
-            "jar": "https://123.155123.xyz/南风.jar"
-        },
 
 {     "key": "开心影视",
       "name": "开心😄蓝光",
@@ -841,7 +825,7 @@
       "name": "⚾┃看球┃直播",
       "type": 3,
       "api": "csp_Kanqiu",
-        "jar": "./jar/PandaQ240318.jar",
+        "jar": "./jar/PandaQ.jar",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
@@ -868,7 +852,7 @@
       "type": 3,
       "playerType": "2",
       "api": "csp_Ying",
-        "jar": "./jar/PandaQ240318.jar"
+        "jar": "./jar/PandaQ.jar"
     },
 {
       "key": "csp_Dm84",
@@ -876,7 +860,7 @@
       "type": 3,
       "playerType": "2",
       "api": "csp_Dm84",
-       "jar": "./jar/PandaQ240318.jar"
+       "jar": "./jar/PandaQ.jar"
     },
     {
       "key": "csp_Anime1",
@@ -884,7 +868,7 @@
       "type": 3,
       "playerType": "2",
       "api": "csp_Anime1",
-       "jar": "./jar/PandaQ240318.jar"
+       "jar": "./jar/PandaQ.jar"
     },
     {
       "key": "csp_Ysj",
@@ -892,14 +876,14 @@
       "type": 3,
       "playerType": "2",
       "api": "csp_Ysj",
-       "jar": "./jar/PandaQ240318.jar"
+       "jar": "./jar/PandaQ.jar"
     },
     {
       "key": "csp_xifan",
       "name": "🍚┃稀饭┃动漫",
       "type": 3,
       "api": "csp_Xifan",
-      "jar": "./jar/PandaQ240318.jar",
+      "jar": "./jar/PandaQ.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
