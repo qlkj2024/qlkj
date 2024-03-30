@@ -150,6 +150,33 @@
       "filterable": 1,
       "ext": "./json/woggzx.json"
     },
+    {
+      "key": "csp_XYQHikerAL_多多",
+      "name": "多多🥳臻享4K",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/duoduo.json"
+    },
+    {
+      "key": "玩我网盘",
+      "name": "玩我🚛网盘4K",
+      "type": 3,
+      "api": "csp_Wobg",
+      "jar": "./jar/ok.jar",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": {
+        "token": "file://TV/ali_token.txt",
+        "cookie": "file://TV/quark_cookie.txt",
+        "site": "http://www.ttkx.live:3328",
+        "danmu": true
+      },
+      "timeout": 25
+    },
   {
       "key": "新视觉",
       "name": "视觉🐦影视",
