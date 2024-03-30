@@ -151,12 +151,39 @@
       "filterable": 1,
       "ext": "./json/woggzx.json"
     },
+      {
+      "key": "csp_XYQHikerAL_多多",
+      "name": "多多🥳臻享4K",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/duoduo.json"
+    },
+    {
+      "key": "玩我网盘",
+      "name": "玩我🚛网盘4K",
+      "type": 3,
+      "api": "csp_Wobg",
+      "jar": "./jar/ok.jar",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": {
+        "token": "file://TV/ali_token.txt",
+        "cookie": "file://TV/quark_cookie.txt",
+        "site": "http://www.ttkx.live:3328",
+        "danmu": true
+      },
+      "timeout": 25
+    },
   {
       "key": "新视觉",
       "name": "视觉🐦影视",
       "type": 3,
       "api": "csp_Xinsj",
-       "jar": "./jar/PandaQ240318.jar",
+       "jar": "./jar/PandaQ.jar",
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
@@ -225,14 +252,14 @@
       "name": "📺┃360┃官源",
       "type": 3,
       "api": "csp_SP360",
-       "jar": "./jar/PandaQ240318.jar"
+       "jar": "./jar/PandaQ.jar"
     },
        {
       "key": "csp_Voflix",
       "name": " 🎋┃Voflix┃影视",
       "type": 3,
       "api": "csp_Voflix",
-         "jar": "./jar/PandaQ240318.jar",
+         "jar": "./jar/PandaQ.jar",
       "playerType": "2",
       "ext": "https://www.voflix.me/"
     },
@@ -644,7 +671,7 @@
       "name": "快看🏖直连",
       "type": 3,
       "api": "csp_Kuaikan",
-      "jar": "./jar/PandaQ240216.jar",
+      "jar": "./jar/PandaQ.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -804,7 +831,7 @@
       "name": "⚾┃看球┃直播",
       "type": 3,
       "api": "csp_Kanqiu",
-        "jar": "./jar/PandaQ240318.jar",
+        "jar": "./jar/PandaQ.jar",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
@@ -832,7 +859,7 @@
       "type": 3,
       "playerType": "2",
       "api": "csp_Ying",
-        "jar": "./jar/PandaQ240318.jar"
+        "jar": "./jar/PandaQ.jar"
     },
 {
       "key": "csp_Dm84",
@@ -840,7 +867,7 @@
       "type": 3,
       "playerType": "2",
       "api": "csp_Dm84",
-       "jar": "./jar/PandaQ240318.jar"
+       "jar": "./jar/PandaQ.jar"
     },
     {
       "key": "csp_Anime1",
@@ -848,7 +875,7 @@
       "type": 3,
       "playerType": "2",
       "api": "csp_Anime1",
-       "jar": "./jar/PandaQ240318.jar"
+       "jar": "./jar/PandaQ.jar"
     },
     {
       "key": "csp_Ysj",
@@ -856,14 +883,14 @@
       "type": 3,
       "playerType": "2",
       "api": "csp_Ysj",
-       "jar": "./jar/PandaQ240318.jar"
+       "jar": "./jar/PandaQ.jar"
     },
     {
       "key": "csp_xifan",
       "name": "🍚┃稀饭┃动漫",
       "type": 3,
       "api": "csp_Xifan",
-      "jar": "./jar/PandaQ240318.jar",
+      "jar": "./jar/PandaQ.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
