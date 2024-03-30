@@ -150,6 +150,16 @@
       "filterable": 1,
       "ext": "./json/woggzx.json"
     },
+    {
+      "key": "csp_XYQHikerAL_多多",
+      "name": "多多🥳臻享4K",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/duoduo.json"
+    },
   {
       "key": "新视觉",
       "name": "视觉🐦影视",
