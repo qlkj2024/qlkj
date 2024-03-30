@@ -73,6 +73,18 @@
 			"changeable": 0,
 			"ext":"./lib/tokenm.json"
 		},
+
+   {
+      "key": "玩偶哥哥",
+      "name": "玩偶⛅弹幕4K",
+      "type": 3,
+      "api": "csp_WoGG",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1711721344265/fan.txt;md5;0ba1048af735fda78b9e7ccca32d60c0",
+    "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt---4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
+    },
 {
       "key": "一青叶我_开心玩偶",
       "name": "开心🍹臻享4K",
@@ -108,22 +120,6 @@
       "ext": "./json/PG推送.json$$$null$$$1"
     },
 {
-      "key": "玩我网盘",
-      "name": "玩我🚛网盘4K",
-      "type": 3,
-      "api": "csp_Wobg",
-         "jar": ".jar/qing.jar",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "ext": {
-        "token": "file://TV/ali_token.txt",
-        "cookie": "file://TV/quark_cookie.txt",
-        "site": "http://www.ttkx.live:3328"
-      },
-      "timeout": 25
-    },
-{
       "key": "csp_XYQHikerAL_阿里苏苏",
       "name": "苏苏🛰️臻享4K",
       "type": 3,
@@ -133,18 +129,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./json/alisusu.json"
-    },
-
-   {
-      "key": "玩偶哥哥",
-      "name": "玩偶⛅弹幕4K",
-      "type": 3,
-      "api": "csp_WoGG",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1711721344265/fan.txt;md5;0ba1048af735fda78b9e7ccca32d60c0",
-    "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt---4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
     },
 {
       "key": "csp_XYQHikerAL_土豆",
