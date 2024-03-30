@@ -690,7 +690,7 @@
       "name": "快看🏖直连",
       "type": 3,
       "api": "csp_Kuaikan",
-      "jar": "./jar/PandaQ240216.jar",
+      "jar": "./jar/PandaQ.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
