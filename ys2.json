@@ -3,7 +3,7 @@
 "wallpaper":"https://vi2.xiu123.cn/live/2023/08/15/17/1001v1692091979226192412.png",
 "sites":[
 {
-      "key": "豆瓣",  
+      "key": "豆瓣",
       "name": "公众号:奇乐技术网┃加qq群291807877防迷路！",
       "type": 3,
       "api": "csp_DouDou",
@@ -38,7 +38,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0
-        }, 
+        },
 {
       "key": "csp_KungFu404",
       "name": "🌥️┃Open原画┃设置",
@@ -155,7 +155,7 @@
       "name": "视觉🐦影视",
       "type": 3,
       "api": "csp_Xinsj",
-       "jar": "./jar/PandaQ240318.jar",
+       "jar": "./jar/PandaQ.jar",
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
@@ -229,7 +229,7 @@
       "jar": "./jar/cangzan.jar"
     },
 
-{ 
+{
       "key": "csp_SNzy",
       "name": "索尼🐉蓝光",
       "type": 1,
@@ -243,7 +243,7 @@
         "大陆综艺",
         "爽文短剧",
         "韩剧",
-        "泰剧", 
+        "泰剧",
         "港剧",
         "日剧",
         "台剧",
@@ -284,14 +284,14 @@
       "name": "360📺官源",
       "type": 3,
       "api": "csp_SP360",
-       "jar": "./jar/PandaQ240318.jar"
+       "jar": "./jar/PandaQ.jar"
     },
        {
       "key": "csp_Voflix",
       "name": " Voflix🎋影视",
       "type": 3,
       "api": "csp_Voflix",
-         "jar": "./jar/PandaQ240318.jar",
+         "jar": "./jar/PandaQ.jar",
       "playerType": "2",
       "ext": "https://www.voflix.me/"
     },
@@ -441,7 +441,7 @@
       "categories": [
         "国产剧",
         "韩国剧",
-        "泰国剧",       
+        "泰国剧",
         "欧美剧",
         "香港剧",
         "台湾剧",
@@ -517,7 +517,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0
-        }, 
+        },
    {
 			"key": "NanGua",
 			"name": "南瓜🎃弹幕",
@@ -575,7 +575,7 @@
         "喜剧片"
       ]
     },
-	
+
 {
       "key": "新视觉影院",
       "name": "视觉🔥影院",
@@ -586,7 +586,7 @@
       "filterable": 1,
       "ext": "./json/xinshijue.json"
     },
-    
+
 {
       "key": "地瓜",
       "name": "地瓜🍺超清",
@@ -658,7 +658,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "ext": "./json/yinyue.json"
-    },        
+    },
 {
       "key": "meowtv_Libo",
       "name": "利播🌕韩剧",
@@ -676,7 +676,7 @@
       "name": "快看🏖直连",
       "type": 3,
       "api": "csp_Kuaikan",
-      "jar": "./jar/PandaQ240216.jar",
+      "jar": "./jar/PandaQ.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -799,9 +799,9 @@
 			"searchable": 1,
 			"ext": "https://www.bdys10.com/$$$null$$$1"
 		},
-        {"key":"新6V","name":"🧲新6V┃磁力","type":3,"api":"csp_SixV","jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1710756082799/fan.txt;md5;dd909349c70fe92e82470eba611b7094","searchable":1,"quickSearch":1,"changeable":0,"ext": "http://www.xb6v.com/"}, 
+        {"key":"新6V","name":"🧲新6V┃磁力","type":3,"api":"csp_SixV","jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1710756082799/fan.txt;md5;dd909349c70fe92e82470eba611b7094","searchable":1,"quickSearch":1,"changeable":0,"ext": "http://www.xb6v.com/"},
  {"key": "csp_XYQHiker_BT天堂","name":"🧲✈️BT天堂","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/BT天堂.json"},
-  {"key": "csp_XYQHikerAL_4KHDR","name":"🧲📀4KHDR(盘/磁)","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/4KHDR.json"},        
+  {"key": "csp_XYQHikerAL_4KHDR","name":"🧲📀4KHDR(盘/磁)","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/4KHDR.json"},
        {"key": "csp_XYQHiker_电影港","name":"🧲电影港","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/电影港磁力.json"},
         {
       "key": "drpy_js_酷吧",
@@ -837,7 +837,7 @@
       "name": "⚾┃看球┃直播",
       "type": 3,
       "api": "csp_Kanqiu",
-        "jar": "./jar/PandaQ240318.jar",
+        "jar": "./jar/PandaQ.jar",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
@@ -864,7 +864,7 @@
       "type": 3,
       "playerType": "2",
       "api": "csp_Ying",
-        "jar": "./jar/PandaQ240318.jar"
+        "jar": "./jar/PandaQ.jar"
     },
 {
       "key": "csp_Dm84",
@@ -872,7 +872,7 @@
       "type": 3,
       "playerType": "2",
       "api": "csp_Dm84",
-       "jar": "./jar/PandaQ240318.jar"
+       "jar": "./jar/PandaQ.jar"
     },
     {
       "key": "csp_Anime1",
@@ -880,7 +880,7 @@
       "type": 3,
       "playerType": "2",
       "api": "csp_Anime1",
-       "jar": "./jar/PandaQ240318.jar"
+       "jar": "./jar/PandaQ.jar"
     },
     {
       "key": "csp_Ysj",
@@ -888,14 +888,14 @@
       "type": 3,
       "playerType": "2",
       "api": "csp_Ysj",
-       "jar": "./jar/PandaQ240318.jar"
+       "jar": "./jar/PandaQ.jar"
     },
     {
       "key": "csp_xifan",
       "name": "🍚┃稀饭┃动漫",
       "type": 3,
       "api": "csp_Xifan",
-      "jar": "./jar/PandaQ240318.jar",
+      "jar": "./jar/PandaQ.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -927,7 +927,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0
-    },    
+    },
    {
       "key": "Aid",
       "name": "🚑急救┃教学",
@@ -1052,7 +1052,7 @@
       "filterable": 1,
       "ext":"http://rihou.vip:55/lib/Bili短剧.json"
       },
-     
+
 
 {"key":"ext_live_protocol","name":"免费接口，自娱制作","type":3,"api":"csp_DuoX","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"cc","name":"请勿相信视频中任何广告","type":3,"api":"csp_XPath","searchable": 0,"quickSearch": 0},
@@ -1076,14 +1076,14 @@
         }
       }
     },
-    
+
 {"name": "嗅探","type": 0,"url": "https://jx.haokantv.cyou/player/?url="},
 {"name": "嗅探一","type": 0,"url": "http://bfqjc.xwyxpw.cn/?url="},
 {"name": "嗅探二","type": 0,"url": "https://jx.jsonplayer.com/player/?url="},
 {"name": "嗅探三","type": 0,"url": "https://jx.bozrc.com:4433/player/?url="},
 {"name": "嗅探四","type": 0,"url": "https://jx.777jiexi.com/player/?url="},
 {"name": "嗅探五","type": 0,"url": "https://jx.xmflv.com/?url="} ,
-{"name": "嗅探六","type": 0,"url": "https://www.baipiao-ys.cc/player/?url="} 
+{"name": "嗅探六","type": 0,"url": "https://www.baipiao-ys.cc/player/?url="}
 ],
 "doh": [
     {
