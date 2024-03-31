@@ -203,7 +203,7 @@
     },
       {
       "key": "校长影视",
-      "name": "校长影视🎈4k",
+      "name": "校长🎈4k",
       "type": 3,
       "api": "csp_XiaoZhang",
          "jar": "./jar/pg.jar",
@@ -227,7 +227,7 @@
     },
      {
       "key": "Wobg",
-      "name": "玩偶表哥🎈4k",
+      "name": "表哥🎈4k",
       "type": 3,
       "api": "csp_Wobg",
          "jar": "./jar/pg.jar",
@@ -239,7 +239,7 @@
     },
         {
       "key": "yydsys",
-      "name": "玩你老哥🎈4k",
+      "name": "老哥🎈4k",
       "type": 3,
       "api": "csp_Wobg",
                "jar": "./jar/pg.jar",
