@@ -191,7 +191,7 @@
     },
 {
       "key": "Ppxzy",
-      "name": "皮皮虾|网盘",
+      "name": "皮皮虾🎈4k",
       "type": 3,
       "api": "csp_Ppxzy",
            "jar": "./jar/pg.jar",
@@ -203,7 +203,7 @@
     },
       {
       "key": "校长影视",
-      "name": "校长影视|网盘",
+      "name": "校长影视🎈4k",
       "type": 3,
       "api": "csp_XiaoZhang",
          "jar": "./jar/pg.jar",
@@ -215,19 +215,19 @@
     },
       {
       "key": "美剧迷",
-      "name": "美剧迷|网盘",
+      "name": "美剧迷🎈4k",
       "type": 3,
       "api": "csp_Meijumi",
       "jar": "./jar/pg.jar",
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
-      "timeout": 60,
+      "timeout": 120,
       "ext": "./lib/tokenm.json$$$https://www.meijumi.xyz/$$$null$$$1"
     },
      {
       "key": "Wobg",
-      "name": "玩偶表哥|网盘",
+      "name": "玩偶表哥🎈4k",
       "type": 3,
       "api": "csp_Wobg",
          "jar": "./jar/pg.jar",
@@ -236,6 +236,18 @@
       "filterable": 1,
       "timeout": 60,
       "ext": "./lib/tokenm.json$$$https://wobge.run.goorm.io$$$null$$$1$$$./lib/wogg.json"
+    },
+        {
+      "key": "yydsys",
+      "name": "玩你老哥🎈4k",
+      "type": 3,
+      "api": "csp_Wobg",
+               "jar": "./jar/pg.jar",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 60,
+      "ext": "./lib/tokenm.json$$$https://tv.yydsys.top/$$$null$$$1$$$./lib/wogg.json"
     },
     {
       "key": "贱贱",
