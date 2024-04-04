@@ -261,23 +261,6 @@
       "timeout": 60,
       "ext": "./lib/tokenm.json$$$null$$$1"
     },
-        {
-            "key": "土豆网盘弹幕",
-            "name": "土豆😺4K",
-            "type": 3,
-            "api": "csp_Wobg",
-                "jar": "./jar/qing.jar",
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "ext": {
-                "token": "file://TV/ali_token.txt",
-                "cookie": "file://TV/quark_cookie.txt",
-                "site": "https://tudou.lvdoui.top/",
-                "danmu": true
-            },
-            "timeout": 25
-        },
     {
       "key": "贱贱",
       "name": "🐭贱贱┃p2p",
@@ -371,7 +354,7 @@
       "name": "🎉一起┃App",
       "type": 3,
       "api": "csp_YQKan",
-        "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1711988761126/fan.txt;md5;939c79aa5e93766504d1f7a957d32f24",
+        "jar": "./jar/pg.jar",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
