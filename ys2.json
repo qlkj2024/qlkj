@@ -190,7 +190,7 @@
     },
 {
       "key": "Ppxzy",
-      "name": "皮皮虾|网盘",
+      "name": "皮皮虾🎈4k",
       "type": 3,
       "api": "csp_Ppxzy",
            "jar": "./jar/pg.jar",
@@ -202,7 +202,7 @@
     },
       {
       "key": "校长影视",
-      "name": "校长影视|网盘",
+      "name": "校长🎈4k",
       "type": 3,
       "api": "csp_XiaoZhang",
          "jar": "./jar/pg.jar",
@@ -214,16 +214,69 @@
     },
       {
       "key": "美剧迷",
-      "name": "美剧迷|网盘",
+      "name": "美剧迷🎈4k",
       "type": 3,
       "api": "csp_Meijumi",
       "jar": "./jar/pg.jar",
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
-      "timeout": 60,
+      "timeout": 120,
       "ext": "./lib/tokenm.json$$$https://www.meijumi.xyz/$$$null$$$1"
     },
+     {
+      "key": "Wobg",
+      "name": "表哥🎈4k",
+      "type": 3,
+      "api": "csp_Wobg",
+         "jar": "./jar/pg.jar",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 60,
+      "ext": "./lib/tokenm.json$$$https://wobge.run.goorm.io$$$null$$$1$$$./lib/wogg.json"
+    },
+        {
+      "key": "yydsys",
+      "name": "老哥🎈4k",
+      "type": 3,
+      "api": "csp_Wobg",
+     "jar": "./jar/pg.jar",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 60,
+      "ext": "./lib/tokenm.json$$$https://tv.yydsys.top/$$$null$$$1$$$./lib/wogg.json"
+    },
+        {
+      "key": "Hdhive",
+      "name": "影巢🎈4K",
+      "type": 3,
+      "api": "csp_Hdhive",
+           "jar": "./jar/pg.jar",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 60,
+      "ext": "./lib/tokenm.json$$$null$$$1"
+    },
+        {
+            "key": "土豆网盘弹幕",
+            "name": "土豆😺4K",
+            "type": 3,
+            "api": "csp_Wobg",
+                "jar": "./jar/qing.jar",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "ext": {
+                "token": "file://TV/ali_token.txt",
+                "cookie": "file://TV/quark_cookie.txt",
+                "site": "https://tudou.lvdoui.top/",
+                "danmu": true
+            },
+            "timeout": 25
+        },
     {
       "key": "贱贱",
       "name": "贱贱🐭p2p",
