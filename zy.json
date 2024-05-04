@@ -7,12 +7,12 @@
 //本管理者保留随时更改或补充此免责声明的权利。一旦使用、复制、转载、发布、修改了本文内容，则视为您已接受此免责声明。否则后果自负。
 //为防止有人贩卖，接口地址不定期更新
 {
-"spider":"https://jihulab.com/qlkj2024/qlkj/-/raw/master/jar/ql.jar",
+"spider":"./jar/ql.jar",
 "wallpaper":"https://vi2.xiu123.cn/live/2023/08/15/17/1001v1692091979226192412.png",
 "sites":[
 {
       "key": "豆瓣",  
-      "name": "公众号:奇乐技术网｜防迷路,接口地址将于近期更换！",
+      "name": "公众号:奇乐技术网｜qq群87905303防迷路",
       "type": 3,
       "api": "csp_DouDou",
       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1714650590961/fan.txt;md5;177584a6db7606778d53181f34310ae9",
@@ -20,9 +20,9 @@
       "quickSearch": 0,
       "filterable": 0
                 },
-                {"key":"奇乐科技","name":"奇乐科技|4.30更新",
+                {"key":"奇乐科技","name":"奇乐科技|5.3更新",
                 "type":3,"api":"csp_XBPQ",
-                 "jar": "https://jihulab.com/qlkj2024/qlkj/-/raw/master/jar/spider.jar",
+                 "jar": "./jar/spider.jar",
                  "playerType":2,"searchable":0,
                  "ext":{"首页":"正在热映",
                  "图片代理":"",
@@ -42,7 +42,7 @@
       "name": "🌥️┃Open原画┃设置",
       "type": 3,
       "api": "csp_KungFu404",
-      "jar": "https://jihulab.com/qlkj2024/qlkj/-/raw/master/jar/alibaba.jar",
+      "jar": "./jar/alibaba.jar",
       "searchable": 0,
       "filterable": 0,
       "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"
@@ -52,7 +52,7 @@
       "name": "原画及夸克配置",
       "type": 3,
       "api": "csp_Config",
-      "jar": "https://jihulab.com/qlkj2024/qlkj/-/raw/master/jar/pg2.jar",
+      "jar": "./jar/pg2.jar",
       "searchable": 0,
       "changeable": 0,
       "style": {
@@ -66,10 +66,10 @@
 			"name": "网盘及彈幕配置",
 			"type": 3,
 			"api": "csp_Config",
-      "jar": "https://jihulab.com/qlkj2024/qlkj/-/raw/master/jar/pg.jar",
+      "jar": "./jar/pg.jar",
 			"searchable": 0,
 			"changeable": 0,
-			"ext":"https://jihulab.com/qlkj2024/qlkj/-/raw/master/lib/tokenm.json"
+			"ext":"./lib/tokenm.json"
 		},
    {
       "key": "玩偶哥哥",
@@ -103,7 +103,7 @@
       "name": "团长🍡蓝光4K",
       "type": 3,
       "api": "csp_TZFile",
-      "jar": "https://jihulab.com/qlkj2024/qlkj/-/raw/master/jar/PG.jar",
+      "jar": "./jar/PG.jar",
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
@@ -115,7 +115,7 @@
       "name": "苏苏🛰️臻享4K",
       "type": 3,
       "api": "csp_XYQHikerAL",
-      "jar": "https://jihulab.com/qlkj2024/qlkj/-/raw/master/jar/xyqwogg.jar",
+      "jar": "./jar/xyqwogg.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -166,7 +166,7 @@
       "name": "视觉🐦影视",
       "type": 3,
       "api": "csp_Xinsj",
-       "jar": "https://jihulab.com/qlkj2024/qlkj/-/raw/master/jar/PandaQ.jar",
+       "jar": "./jar/PandaQ.jar",
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
@@ -177,84 +177,84 @@
       "name": "皮皮虾🎈4k",
       "type": 3,
       "api": "csp_Ppxzy",
-           "jar": "https://jihulab.com/qlkj2024/qlkj/-/raw/master/jar/pg.jar",
+           "jar": "./jar/pg.jar",
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "https://jihulab.com/qlkj2024/qlkj/-/raw/master/lib/tokenm.json$$$https://ppxzy.net$$$null$$$1"
+      "ext": "./lib/tokenm.json$$$https://ppxzy.net$$$null$$$1"
     },
       {
       "key": "校长影视",
       "name": "校长🎈4k",
       "type": 3,
       "api": "csp_XiaoZhang",
-         "jar": "https://jihulab.com/qlkj2024/qlkj/-/raw/master/jar/pg.jar",
+         "jar": "./jar/pg.jar",
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "https://jihulab.com/qlkj2024/qlkj/-/raw/master/lib/tokenm.json$$$https://xzyshd.com$$$null$$$1"
+      "ext": "./lib/tokenm.json$$$https://xzyshd.com$$$null$$$1"
     },
       {
       "key": "美剧迷",
       "name": "美剧迷🎈4k",
       "type": 3,
       "api": "csp_Meijumi",
-      "jar": "https://jihulab.com/qlkj2024/qlkj/-/raw/master/jar/pg.jar",
+      "jar": "./jar/pg.jar",
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
       "timeout": 120,
-      "ext": "https://jihulab.com/qlkj2024/qlkj/-/raw/master/lib/tokenm.json$$$https://www.meijumi.xyz/$$$null$$$1"
+      "ext": "./lib/tokenm.json$$$https://www.meijumi.xyz/$$$null$$$1"
     },
      {
       "key": "Wobg",
       "name": "表哥🎈4k",
       "type": 3,
       "api": "csp_Wobg",
-         "jar": "https://jihulab.com/qlkj2024/qlkj/-/raw/master/jar/pg.jar",
+         "jar": "./jar/pg.jar",
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "https://jihulab.com/qlkj2024/qlkj/-/raw/master/lib/tokenm.json$$$https://wobge.run.goorm.io$$$null$$$1$$$https://jihulab.com/qlkj2024/qlkj/-/raw/master/lib/wogg.json"
+      "ext": "./lib/tokenm.json$$$https://wobge.run.goorm.io$$$null$$$1$$$./lib/wogg.json"
     },
         {
       "key": "yydsys",
       "name": "老哥🎈4k",
       "type": 3,
       "api": "csp_Wobg",
-     "jar": "https://jihulab.com/qlkj2024/qlkj/-/raw/master/jar/pg.jar",
+     "jar": "./jar/pg.jar",
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "https://jihulab.com/qlkj2024/qlkj/-/raw/master/lib/tokenm.json$$$https://tv.yydsys.top/$$$null$$$1$$$https://jihulab.com/qlkj2024/qlkj/-/raw/master/lib/wogg.json"
+      "ext": "./lib/tokenm.json$$$https://tv.yydsys.top/$$$null$$$1$$$./lib/wogg.json"
     },
         {
       "key": "Hdhive",
       "name": "影巢🎈4K",
       "type": 3,
       "api": "csp_Hdhive",
-           "jar": "https://jihulab.com/qlkj2024/qlkj/-/raw/master/jar/pg.jar",
+           "jar": "./jar/pg.jar",
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "https://jihulab.com/qlkj2024/qlkj/-/raw/master/lib/tokenm.json$$$null$$$1"
+      "ext": "./lib/tokenm.json$$$null$$$1"
     },
       {
       "key": "Xpanpan",
       "name": "小盘盘🎈网盘",
       "type": 3,
       "api": "csp_Xpanpan",
-            "jar": "https://jihulab.com/qlkj2024/qlkj/-/raw/master/jar/pg.jar",
+            "jar": "./jar/pg.jar",
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": ".https://jihulab.com/qlkj2024/qlkj/-/raw/master/lib/tokenm.json$$$https://xpanpan.site$$$proxy$$$1",
+      "ext": "../lib/tokenm.json$$$https://xpanpan.site$$$proxy$$$1",
       "style": {
         "type": "list",
         "ratio": 1.1
@@ -265,12 +265,12 @@
       "name": "玩偶4K🎈磁力",
       "type": 3,
       "api": "csp_Wo4k",
-             "jar": "https://jihulab.com/qlkj2024/qlkj/-/raw/master/jar/pg.jar",
+             "jar": "./jar/pg.jar",
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "https://jihulab.com/qlkj2024/qlkj/-/raw/master/lib/tokenm.json$$$https://www.wo4k.net/$$$proxy$$$1$$$https://jihulab.com/qlkj2024/qlkj/-/raw/master/lib/wogg.json"
+      "ext": "./lib/tokenm.json$$$https://www.wo4k.net/$$$proxy$$$1$$$./lib/wogg.json"
     },
 		
 		
@@ -279,7 +279,7 @@
       "name": "土豆😺4K",
       "type": 3,
       "api": "csp_Wobg",
-    "jar": "https://jihulab.com/qlkj2024/qlkj/-/raw/master/jar/okjpg.txt",
+    "jar": "./jar/okjpg.txt",
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
@@ -296,22 +296,22 @@
       "name": "中国高清网|网盘",
       "type": 3,
       "api": "csp_Gaoqing",
-          "jar": "https://jihulab.com/qlkj2024/qlkj/-/raw/master/jar/pg.jar",
+          "jar": "./jar/pg.jar",
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "https://jihulab.com/qlkj2024/qlkj/-/raw/master/lib/tokenm.json$$$https://gaoqing.la/$$$proxy$$$1"
+      "ext": "./lib/tokenm.json$$$https://gaoqing.la/$$$proxy$$$1"
     },
      	{
 			"key": "賤賤",
 			"name": "荐片👍弹幕",
 			"type": 3,
 			"api": "csp_Jianpian",
-                 "jar": "https://jihulab.com/qlkj2024/qlkj/-/raw/master/jar/pg.jar",
+                 "jar": "./jar/pg.jar",
 			"searchable": 1,
 			"changeable": 1,
-			"ext": "https://jihulab.com/qlkj2024/qlkj/-/raw/master/lib/jianpian.json$$$1",
+			"ext": "./lib/jianpian.json$$$1",
 			"timeout":60
 		},
       {
@@ -333,7 +333,7 @@
       "name": "360📺官源",
       "type": 3,
       "api": "csp_SP360",
-       "jar": "https://jihulab.com/qlkj2024/qlkj/-/raw/master/jar/PandaQ.jar"
+       "jar": "./jar/PandaQ.jar"
     },
  
 { 
@@ -590,7 +590,7 @@
       "name": "耐看🌃直连",
       "type": 3,
       "api": "csp_CandyMuj_nkvod",
-      "jar": "https://jihulab.com/qlkj2024/qlkj/-/raw/master/jar/candymuj.jar",
+      "jar": "./jar/candymuj.jar",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1
@@ -601,7 +601,7 @@
       "name": "利播🌕韩剧",
       "type": 3,
       "api": "csp_Libvio",
-      "jar": "https://jihulab.com/qlkj2024/qlkj/-/raw/master/jar/spider1.png",
+      "jar": "./jar/spider1.png",
       "searchable": 0,
       "quickSearch": 1,
       "changeable": 1,
@@ -613,7 +613,7 @@
       "name": "快看🏖直连",
       "type": 3,
       "api": "csp_Kuaikan",
-      "jar": "https://jihulab.com/qlkj2024/qlkj/-/raw/master/jar/PandaQ.jar",
+      "jar": "./jar/PandaQ.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -633,7 +633,7 @@
       "name": "TVB📭云播",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://jihulab.com/qlkj2024/qlkj/-/raw/master/jar/HeChengChaXiu.jar",
+      "jar": "./jar/HeChengChaXiu.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -664,7 +664,7 @@
         {"key":"新6V","name":"🧲新6V┃磁力","type":3,"api":"csp_SixV","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1714650590961/fan.txt;md5;177584a6db7606778d53181f34310ae9","searchable":1,"quickSearch":1,"changeable":0,"ext": "http://www.xb6v.com/"}, 
  {"key": "csp_XYQHiker_BT天堂","name":"🧲✈️BT天堂","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/BT天堂.json"},
   {"key": "csp_XYQHikerAL_4KHDR","name":"🧲📀4KHDR(盘/磁)","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/4KHDR.json"},        
-        {"key":"Bt0","name":"🧲不太灵|磁力","type":3,"api":"csp_Bt0", "jar": "https://jihulab.com/qlkj2024/qlkj/-/raw/master/jar/pg.jar","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"null$$$null$$$1"},
+        {"key":"Bt0","name":"🧲不太灵|磁力","type":3,"api":"csp_Bt0", "jar": "./jar/pg.jar","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"null$$$null$$$1"},
    {
       "key": "直播转点播1",
       "name": "📡电视直播",
@@ -716,7 +716,7 @@
       "type": 3,
       "playerType": "2",
       "api": "csp_Ying",
-        "jar": "https://jihulab.com/qlkj2024/qlkj/-/raw/master/jar/PandaQ.jar"
+        "jar": "./jar/PandaQ.jar"
     },
 {
       "key": "csp_Dm84",
@@ -724,7 +724,7 @@
       "type": 3,
       "playerType": "2",
       "api": "csp_Dm84",
-       "jar": "https://jihulab.com/qlkj2024/qlkj/-/raw/master/jar/PandaQ.jar"
+       "jar": "./jar/PandaQ.jar"
     },
     {
       "key": "csp_Anime1",
@@ -732,7 +732,7 @@
       "type": 3,
       "playerType": "2",
       "api": "csp_Anime1",
-       "jar": "https://jihulab.com/qlkj2024/qlkj/-/raw/master/jar/PandaQ.jar"
+       "jar": "./jar/PandaQ.jar"
     },
     {
       "key": "csp_Ysj",
@@ -740,14 +740,14 @@
       "type": 3,
       "playerType": "2",
       "api": "csp_Ysj",
-       "jar": "https://jihulab.com/qlkj2024/qlkj/-/raw/master/jar/PandaQ.jar"
+       "jar": "./jar/PandaQ.jar"
     },
     {
       "key": "csp_xifan",
       "name": "🍚┃稀饭┃动漫",
       "type": 3,
       "api": "csp_Xifan",
-      "jar": "https://jihulab.com/qlkj2024/qlkj/-/raw/master/jar/PandaQ.jar",
+      "jar": "./jar/PandaQ.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -773,7 +773,7 @@
       "name": "推送",
       "type": 3,
       "api": "csp_Push",
-       "jar": "https://jihulab.com/qlkj2024/qlkj/-/raw/master/jar/qing.jar",
+       "jar": "./jar/qing.jar",
       "searchable": 0,
       "filterable": 0,
       "changeable": 0,
