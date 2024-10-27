@@ -21,7 +21,7 @@
       "quickSearch": 0,
       "filterable": 0
                 },
-                {"key":"奇乐科技","name":"奇乐科技|10.14更新",
+                {"key":"奇乐科技","name":"奇乐科技|10.27更新",
                 "type":3,"api":"csp_XBPQ",
                  "jar": "https://github.qlkjy.cn/https://github.com/qlkj2024/qlkj/raw/master/jar/spider.jar",
                  "playerType":2,"searchable":0,
@@ -80,7 +80,7 @@
       "name": "玩偶⛅弹幕4K",
          "type": 3,
       "api": "csp_WoGG",
-        "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1728649901533/fan.txt;md5;4e1010524e7057305efc75565c87ba0d",
+        "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1729928513059/fan.txt;md5;8851819289f80deae32319080028db3b",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
@@ -90,6 +90,33 @@
         "siteUrl": "https://www.wogg.net/",
         "danMu": "弹"
       }
+    },
+       {
+      "key": "木偶弹幕",
+      "name": "木偶🪵在线",
+      "type": 3,
+      "api": "csp_Wobg",
+       "jar": "https://github.qlkjy.cn/https://github.com/qlkj2024/qlkj/raw/master/jar/okjpg1.txt",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": {
+        "token": "file://TV/ali_token.txt",
+        "cookie": "file://TV/quark_cookie.txt",
+        "uc_cookie": "file://TV/uc_cookie.txt",
+        "site": "http://mogg.小胡.top"
+      },
+      "timeout": 25
+    },
+    {
+      "key": "csp_Duopan",
+      "name": "蜡笔🖍影视",
+      "type": 3,
+      "api": "csp_Duopan",
+        "jar": "https://github.qlkjy.cn/https://github.com/qlkj2024/qlkj/raw/master/jar/PandaQ.jar",
+      "playerType": 2,
+      "filterable": 1,
+      "ext": "https://duopan.fun/"
     },
 {
       "key": "一青叶我_开心玩偶",
@@ -133,55 +160,6 @@
       "timeout": 30,
       "ext": "https://github.qlkjy.cn/https://github.com/qlkj2024/qlkj/raw/master/json/PG推送.json$$$https://xzyshd.com$$$null$$$1"
     },
-      {
-            "key": "夸克多多弹幕",
-            "name": "多多📕4K弹幕",
-            "type": 3,
-            "api": "csp_Wobg",
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "jar":"https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/danmu.jar",
-            "ext": {
-"token": "file://TV/ali_token.txt",
-        "cookie": "file://TV/quark_cookie.txt",
-        "uc_cookie": "file://TV/uc_cookie.txt",
-                "site": "https://tv.yydsys.top",
-                "danmu": true
-            }
-        },
-  
-    {
-            "key": "夸克至臻弹幕",
-            "name": "至臻🍄4K弹幕",
-            "type": 3,
-            "api": "csp_Wobg",
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "jar":"https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/danmu.jar",
-            "ext": {
-                "token": "file://TV/ali_token.txt",
-        "cookie": "file://TV/quark_cookie.txt",
-        "uc_cookie": "file://TV/uc_cookie.txt",
-                "site": "https://mihdr.top",
-                "danmu": true
-            }
-        },
-             { "key": "夸克团长弹幕",
-            "name": "团长🍓4K弹幕",
-            "type": 3,
-            "api": "csp_Tzfile",
-            "searchable": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "jar":"https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/danmu.jar",
-            "ext": {
-                 "token": "file://TV/ali_token.txt",
-        "cookie": "file://TV/quark_cookie.txt",
-                "danmu": true
-            }
-        },
        {
       "key": "Ppxzy",
       "name": "皮皮🦐蓝光4K",
@@ -194,17 +172,7 @@
       "timeout": 60,
       "ext": "https://github.qlkjy.cn/https://github.com/qlkj2024/qlkj/raw/master/json/PG推送.json$$$https://ppxzy.ink$$$null$$$1"
     },
-  
-    {
-      "key": "csp_Duopan",
-      "name": "蜡笔🖍影视",
-      "type": 3,
-      "api": "csp_Duopan",
-        "jar": "https://github.qlkjy.cn/https://github.com/qlkj2024/qlkj/raw/master/jar/PandaQ.jar",
-      "playerType": 2,
-      "filterable": 1,
-      "ext": "http://labipan.com/"
-    },
+   
     {
       "key": "立播弹幕版",
       "name": "立播🐰在线",
@@ -228,7 +196,7 @@
          {
       "key": "可可",
       "name": "👻可可┃多线",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1728649901533/fan.txt;md5;4e1010524e7057305efc75565c87ba0d",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1729928513059/fan.txt;md5;8851819289f80deae32319080028db3b",
       "type": 3,
       "api": "csp_Kekys",
       "timeout": 15,
@@ -339,7 +307,7 @@
       "name": "南瓜👒App",
       "type": 3,
       "api": "csp_NanGua",
-       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1728649901533/fan.txt;md5;4e1010524e7057305efc75565c87ba0d",
+       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1729928513059/fan.txt;md5;8851819289f80deae32319080028db3b",
       "timeout": 15,
       "playerType": 2,
       "searchable": 1,
@@ -483,7 +451,7 @@
       "ext": "https://github.qlkjy.cn/https://github.com/qlkj2024/qlkj/raw/master/json/panghuys.json"
     },
        
-        {"key":"新6V","name":"🧲新6V┃磁力","type":3,"api":"csp_SixV","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1728649901533/fan.txt;md5;4e1010524e7057305efc75565c87ba0d","searchable":1,"quickSearch":1,"changeable":0,"ext": "http://www.xb6v.com/"}, 
+        {"key":"新6V","name":"🧲新6V┃磁力","type":3,"api":"csp_SixV","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1729928513059/fan.txt;md5;8851819289f80deae32319080028db3b","searchable":1,"quickSearch":1,"changeable":0,"ext": "http://www.xb6v.com/"}, 
      {
       "key": "XBPQ_文才",
       "name": "文才|XBPQ",
@@ -692,7 +660,7 @@
       "name": "🚑急救┃教学",
       "type": 3,
       "api": "csp_FirstAid",
-           "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1728649901533/fan.txt;md5;4e1010524e7057305efc75565c87ba0d",
+           "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1729928513059/fan.txt;md5;8851819289f80deae32319080028db3b",
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
